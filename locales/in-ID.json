@@ -78,7 +78,7 @@
         "class": "btn btn-white"
       },
       {
-        "text": "Pekerjakan Saya",
+        "text": "Bekerja dengan Saya",
         "href": "mailto:zidanerizal17@gmail.com",
         "class": "HireMe btn btn-white"
       }
@@ -138,7 +138,7 @@
       "expandFalse": "Sembunyikan"
     },
     "ctaButton": {
-      "text": "Pekerjakan Saya",
+      "text": "Bekerja dengan Saya",
       "href": "#Contact",
       "class": "btn btn-white"
     }

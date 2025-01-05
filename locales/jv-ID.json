@@ -3,15 +3,15 @@
   "navbar": {
     "links": [
       {
-        "text": "dor",
+        "text": "Ngarep",
         "href": "#"
       },
       {
-        "text": "Tentang",
+        "text": "Babagan",
         "href": "#About"
       },
       {
-        "text": "Keahlian",
+        "text": "Kepinteran",
         "href": "#Skills"
       },
       {
@@ -69,8 +69,8 @@
     ]
   },
   "header": {
-    "greeting": "Hai. Saya Ari Zidan",
-    "description": "Saya adalah seorang profesional teknologi dengan berbagai keahlian dalam pengembangan perangkat lunak, analisis data, dan manajemen basis data. Dengan keterampilan komunikasi yang kuat, tingkat tanggung jawab yang tinggi, dan kemampuan bekerja dalam tim, saya mampu mengatasi tantangan kompleks dengan pendekatan yang terstruktur dan analitis. Pengalaman saya dalam menggunakan berbagai bahasa pemrograman dan alat teknologi modern memungkinkan saya untuk menciptakan solusi yang efisien dan inovatif untuk memenuhi kebutuhan bisnis.",
+    "greeting": "Sugeng Rawuh. Kula Ari Zidan",
+    "description": "Kula punika satunggaling profesional teknologi kanthi ketrampilan ing babagan pangembangan piranti lunak, analisis data, lan manajemen basis data. Kanthi kabisaan komunikasi ingkang sae, tingkat tanggung jawab ingkang inggil, saha kabisaan damel bebarengan ing tim, kula saged ngadhepi tantangan kompleks kanthi pendekatan ingkang terstruktur lan analitis. Pengalaman kula ngginakaken maneka bahasa pemrograman lan alat teknologi modern saged nyiptakaken solusi ingkang efektif lan inovatif kangge nyukupi kabutuhan bisnis.",
     "buttons": [
       {
         "text": "Curriculum Vitae",
@@ -78,7 +78,7 @@
         "class": "btn btn-white"
       },
       {
-        "text": "Pekerjakan Saya",
+        "text": "Bekerja dengan Kula",
         "href": "mailto:zidanerizal17@gmail.com",
         "class": "HireMe btn btn-white"
       }
@@ -105,67 +105,67 @@
     ]
   },
   "about": {
-    "title": "Tentang Saya",
+    "title": "Babagan Kula",
     "cards": [
       {
         "icon": "fa-solid fa-handshake",
         "title": "Kerja Sama Tim",
-        "description": "Dalam kerja sama tim, saya merasa bahwa bekerja bersama membuat setiap tugas lebih mudah dan lebih menyenangkan bagi saya."
+        "description": "Ing kerja sama tim, kula rumangsa menawa kerja bareng ndadosaken saben tugas langkung gampil lan langkung nyenengake tumrap kula."
       },
       {
         "icon": "fa-solid fa-people-arrows",
         "title": "Komunikasi",
-        "description": "Kemampuan komunikasi saya memungkinkan saya untuk berinteraksi dengan orang lain dengan mudah, bahkan dalam percakapan santai tentang hal-hal sehari-hari."
+        "description": "Kabisaan komunikasi kula nggadhahi kamampuan kanggé sesambungan kanthi tiyang sanes kanthi gampil, sanajan ing obrolan santai babagan samukawis ingkang saben dinten."
       },
       {
         "icon": "fa-solid fa-clock-rotate-left",
-        "title": "Manajemen Waktu",
-        "description": "Dengan keterampilan manajemen waktu yang baik, saya tetap fokus dan memprioritaskan untuk hasil terbaik."
+        "title": "Manajemen Wektu",
+        "description": "Kanthi keterampilan manajemen waktu ingkang sae, kula tetep fokus lan ngatur prioritas supados ngasilaken asil ingkang paling becik."
       }
     ],
-    "subtitle": "Pengembang Perangkat Lunak",
+    "subtitle": "Pengembang Piranti Lunak",
     "paragraphs": [
-      "Dalam pengembangan perangkat lunak, saya telah bekerja secara ekstensif dengan berbagai bahasa pemrograman seperti Python, JavaScript, Go, PHP, dan SQL. Fleksibilitas ini memungkinkan saya untuk mengembangkan, menguji, dan memelihara aplikasi perangkat lunak yang andal dan dapat diskalakan. Baik itu membangun sistem backend atau mengembangkan aplikasi web, saya membawa pemahaman yang mendalam tentang arsitektur perangkat lunak dan praktik terbaik.",
-      "Dalam bidang analisis data, keterampilan saya meliputi pengumpulan, pemrosesan, dan interpretasi data untuk mendapatkan wawasan yang dapat ditindaklanjuti. Saya mahir menggunakan alat seperti Jupyter untuk komputasi interaktif dan ilmu data, memungkinkan saya untuk menganalisis data secara efisien dan mengkomunikasikan temuan dengan efektif kepada para pemangku kepentingan.",
-      "Ketika berbicara tentang manajemen basis data, saya memiliki pengalaman langsung dengan basis data relasional seperti PostgreSQL dan MySQL, serta basis data NoSQL seperti MongoDB. Pengetahuan saya tentang Object-Relational Mappers (ORM) seperti Sequelize.js, Prisma, dan SQLAlchemy memungkinkan saya untuk menjembatani kesenjangan antara kode aplikasi dan operasi basis data, memastikan data disimpan, diambil, dan dimanipulasi dengan cara yang mulus dan efisien.",
-      "Selain keterampilan teknis, saya bangga dengan kemampuan komunikasi saya yang kuat, yang memungkinkan saya untuk menjelaskan konsep teknis yang kompleks kepada audiens teknis maupun non-teknis. Rasa tanggung jawab saya memastikan bahwa saya berkomitmen untuk menyelesaikan pekerjaan berkualitas tinggi tepat waktu, sementara sifat kolaboratif saya memungkinkan saya untuk berkembang dalam lingkungan tim, berkontribusi pada penyelesaian proyek yang sukses.",
-      "Lebih jauh lagi, pendekatan saya yang terstruktur dan analitis terhadap pemecahan masalah memberdayakan saya untuk menghadapi tantangan kompleks dengan membaginya menjadi tugas-tugas yang dapat dikelola. Saya fokus pada pemahaman masalah mendasar sebelum merumuskan solusi inovatif yang selaras dengan tujuan bisnis.",
-      "Pengalaman saya dengan alat teknologi modern, termasuk Docker untuk containerization, GitHub untuk pengendalian versi dan kolaborasi, dan Postman untuk pengujian API, membekali saya dengan kemampuan untuk membangun, mengirim, dan memelihara aplikasi dengan cara yang efisien dan sesuai dengan standar industri.",
-      "Secara keseluruhan, keahlian dan pengalaman saya yang beragam memungkinkan saya untuk menciptakan solusi yang efektif dan inovatif yang disesuaikan untuk memenuhi kebutuhan spesifik dari setiap bisnis. Saya bersemangat tentang teknologi dan terus mencari cara untuk meningkatkan keterampilan saya agar tetap unggul dalam bidang yang terus berkembang ini."
+      "Ing pangembangan piranti lunak, kula sampun damel kanthi ekstensif migunakaken maneka bahasa pemrograman kados Python, JavaScript, Go, PHP, lan SQL. Fleksibilitas punika maringi kula kamampuan ngembangaken, nguji, lan ngrawat aplikasi piranti lunak ingkang andal lan saged dipunkembangaken. Nggantosaken sistem backend utawa ngembangaken aplikasi web, kula nyarujuki pangertosan ingkang jero babagan arsitektur piranti lunak lan praktik ingkang paling becik.",
+      "Ing babagan analisis data, keterampilan kula nglebeti nglumpukaken, ngolah, lan nginterpretasi data supados njupuk wawasan ingkang saged dipun tindakake. Kula trampil ngginakaken piranti kados Jupyter kanggé komputasi interaktif lan ilmu data, maringi kula kamampuan nganalisis data kanthi efisien lan nyariosaken temuan kanthi efektif dhumateng para pemangku kepentingan.",
+      "Nalika ngendikakaken babagan manajemen basis data, kula gadhah pengalaman langsung kanthi basis data relasional kados PostgreSQL lan MySQL, saha basis data NoSQL kados MongoDB. Pangertosan kula babagan Object-Relational Mappers (ORM) kados Sequelize.js, Prisma, lan SQLAlchemy maringi kula kamampuan nyambungaken antarane kode aplikasi lan operasi basis data, njamin data kasimpen, kapundhut, lan dimanipulasi kanthi lancar lan efisien.",
+      "Saklajengipun, kemampuan komunikasi kula ingkang kuat maringi kula kamampuan nerangaken konsep teknis ingkang rumit dhumateng audiens teknis saha non-teknis. Rasa tanggung jawab kula njamin bilih kula setya nyelesaikan tugas kanthi kualitas ingkang dhuwur lan pas wektune, dene sifat kolaboratif kula maringi kula kamampuan berkembang ing lingkungan tim, nyumbangaken dhumateng kasuksesan proyek.",
+      "Langkung saking punika, pendekatan kula ingkang terstruktur lan analitis ing ngatasi masalah nguntungake kula kanggo ngadhepi tantangan kompleks kanthi mbagi dados tugas-tugas ingkang saged dipun atasi. Kula fokus kanggo mangertos masalah dhasar sadèrèngipun nemtokaken solusi inovatif ingkang selaras kaliyan tujuan bisnis.",
+      "Pengalaman kula kanthi alat teknologi modern, kalebet Docker kanggé containerization, GitHub kanggé pengendalian versi lan kolaborasi, lan Postman kanggé pengujian API, maringi kula kamampuan ngembangaken, ngirim, lan ngrawat aplikasi kanthi cara efisien lan miturut standar industri.",
+      "Secara keseluruhan, keahlian lan pengalaman kula ingkang manéka saged ngasilaken solusi ingkang efektif lan inovatif kanggé nyukupi kabutuhan bisnis kanthi cara ingkang khusus. Kula remen babagan teknologi lan terus nggoleki cara-cara kanggo ningkataken keterampilan kula supados tetep unggul ing bidang ingkang terus berkembang punika."
     ],
     "expandButton": {
-      "expandTrue": "Lihat Selengkapnya",
-      "expandFalse": "Sembunyikan"
+      "expandTrue": "Waca Luwih Lengkap",
+      "expandFalse": "Sembunyiaken"
     },
     "ctaButton": {
-      "text": "Pekerjakan Saya",
+      "text": "Bekerja dengan Kula",
       "href": "#Contact",
       "class": "btn btn-white"
     }
   },
   "skills": {
-    "title": "Keahlian Saya",
+    "title": "Keahlian Kula",
     "left": {
       "cards": [
         {
           "icon": "fa-brands fa-golang",
           "title": "Golang",
-          "description": "Dari Golang, saya belajar tentang efisiensi dalam pemrograman dan pentingnya konkurensi untuk membangun aplikasi yang skalabel dan berkinerja tinggi."
+          "description": "Saking Golang, kula sinau babagan efisiensi ing pemrograman lan pentinge konkurensi kanggé mbangun aplikasi ingkang saged dipunkembangaken lan gadhah kinerja ingkang inggil."
         },
         {
           "icon": "fab fa-python",
           "title": "Python",
-          "description": "Dari Python, saya belajar tentang kesederhanaan dalam pemrograman dan penerapannya dalam pengembangan web, analisis data, serta otomatisasi."
+          "description": "Saking Python, kula sinau babagan kesederhanaan ing pemrograman lan penerapannya ing pangembangan web, analisis data, saha otomatisasi."
         },
         {
           "icon": "fa-brands fa-js",
           "title": "JavaScript",
-          "description": "Dari JavaScript, saya belajar bagaimana menciptakan interaktivitas dan dinamika pada situs web, serta pentingnya pemrograman asinkron."
+          "description": "Saking JavaScript, kula sinau carane nyiptakake interaktivitas lan dinamika ing situs web, saha pentinge pemrograman asinkron."
         }
       ]
     },
     "right": {
-      "subtitle": "Apa yang Bisa Saya Lakukan?",
+      "subtitle": "Apa ingkang saged kula lampahi?",
       "skillBtn": [
         {
           "icon": "fas fa-database",
@@ -303,8 +303,8 @@
     }
   },
   "portfolio": {
-    "title": "Proyek Terbaru",
-    "description": "Selama pengalaman saya belajar di dunia akademis dan pemrograman, saya telah berhasil menyelesaikan sejumlah proyek yang relevan dan signifikan.",
+    "title": "Proyek Teranyar",
+    "description": "Salami pengalaman kula sinau ing donya akademis lan pemrograman, kula sampun kasil nyeleseaken sawetawis proyek ingkang relevan lan penting.",
     "tabs": [
       {
         "name": "star",
@@ -321,15 +321,15 @@
       },
       {
         "name": "other",
-        "text": "Lainnya"
+        "text": "Lainipun"
       }
     ],
     "projects": [
       {
         "name": "star",
-        "title": "Integrated E-Commerce Platform",
+        "title": "Platform E-Commerce Terintegrasi",
         "image": "uni-sell-1.svg",
-        "description": "Platform e-commerce kami adalah solusi komprehensif yang dirancang untuk memfasilitasi penjualan produk fisik dan digital. Platform ini dilengkapi dengan backend yang tangguh yang dibangun menggunakan Laravel, frontend dinamis yang dikembangkan dengan Vue.js, serta microservices khusus yang ditangani oleh Express.js. Platform ini dikontainerisasi menggunakan Docker untuk penyebaran yang konsisten dan skalabilitas. Fitur-fitur utama termasuk manajemen produk, pelacakan inventaris real-time, checkout yang aman, pemrosesan pembayaran, dan ulasan pengguna. Arsitektur ini memastikan pengalaman yang skalabel, dapat dikelola, dan ramah pengguna untuk mengelola serta membeli produk secara online.",
+        "description": "Platform e-commerce kula punika minangka solusi komprehensif ingkang dipunrancang kanggé ngfasilitasi penjualan produk fisik lan digital. Platform punika dipunlengkapi kanthi backend ingkang kuat ingkang dipunbangun kanthi Laravel, frontend dinamis ingkang dipundamel kaliyan Vue.js, saha microservices khusus ingkang dipunatasi dening Express.js. Platform punika dipunkontainerisasi nganggo Docker kanggé penyebaran ingkang konsisten lan skalabilitas. Fitur-fitur utama inggih punika manajemen produk, pelacakan inventaris real-time, checkout aman, pemrosesan pembayaran, lan ulasan pangguna. Arsitektur punika njamin pengalaman ingkang skalabel, saged dikelola, lan ramah pangguna kanggé ngelola saha tumbas produk sacara online.",
         "technologies": [
           "Laravel (Framework PHP)",
           "Vue.js (Framework JavaScript)",
@@ -338,16 +338,16 @@
           "MySQL (Basis Data)"
         ],
         "features": [
-          "Katalog Produk: Manajemen komprehensif untuk daftar produk dan kategori.",
-          "Keranjang Belanja dan Checkout: Pembaruan keranjang belanja secara real-time, checkout yang aman, dan dukungan berbagai gerbang pembayaran.",
-          "Integrasi Pembayaran: Mendukung Stripe, PayPal, dan prosesor pembayaran lainnya.",
-          "Manajemen Pesanan dan Inventaris: Pelacakan pesanan real-time dan pembaruan inventaris otomatis.",
-          "Sistem Ulasan dan Peringkat: Memungkinkan ulasan dan peringkat pengguna dengan fitur moderasi."
+          "Katalog Produk: Manajemen komprehensif kanggé daftar produk lan kategori.",
+          "Keranjang Belanja lan Checkout: Pembaruan keranjang belanja secara real-time, checkout aman, lan dukungan berbagai gerbang pembayaran.",
+          "Integrasi Pembayaran: Mendukung Stripe, PayPal, lan prosesor pembayaran sanesipun.",
+          "Manajemen Pesanan lan Inventaris: Pelacakan pesanan real-time lan pembaruan inventaris otomatis.",
+          "Sistem Ulasan lan Peringkat: Ngidini ulasan lan peringkat pangguna kanthi fitur moderasi."
         ],
-        "contribution": "Saya mengembangkan platform e-commerce terpadu, menerapkan Laravel untuk layanan backend, Vue.js untuk frontend, dan Express.js untuk layanan microservices API. Saya juga mengelola kontainerisasi Docker untuk lingkungan penyebaran yang konsisten dan mengintegrasikan berbagai teknologi untuk memastikan skalabilitas dan kemudahan pemeliharaan.",
+        "contribution": "Kula ngembangaken platform e-commerce terpadu, nerapaken Laravel kanggé layanan backend, Vue.js kanggé frontend, lan Express.js kanggé layanan microservices API. Kula ugi ngelola kontainerisasi Docker kanggé lingkungan penyebaran ingkang konsisten lan ngintegrasi berbagai teknologi kanggé njamin skalabilitas lan kemudahan pemeliharaan.",
         "links": [
           {
-            "text": "Live",
+            "text": "Pranala Langsung",
             "href": "https://github.com/arizdn234/uni-sell",
             "class": "btn btn-sm"
           },
@@ -360,27 +360,27 @@
       },
       {
         "name": "star",
-        "title": "AI-Enhanced CSV Query Web Application",
+        "title": "Aplikasi Web Query CSV Ditingkatkan dengan AI",
         "image": "aitapas.svg",
-        "description": "Aplikasi web ini memungkinkan pengguna untuk berinteraksi dengan data CSV menggunakan model AI. Pengguna dapat masuk, melihat data CSV yang telah diurai, dan mengajukan pertanyaan yang dijawab oleh model AI, mengintegrasikan Google Gemini dan Tapas dari Hugging Face untuk respons berbasis data.",
+        "description": "Aplikasi web punika ngidini pangguna kanggé berinteraksi kaliyan data CSV ngginakaken model AI. Pangguna saged mlebet, mirsani data CSV ingkang sampun dipunurai, lan nglajengaken pitakenan ingkang dijawab dening model AI, ngintegrasi Google Gemini lan Tapas saking Hugging Face kanggé respons berbasis data.",
         "technologies": [
           "Go (Golang)",
           "Gin Web Framework",
           "Google Generative AI Go SDK",
-          "API Hugging Face untuk model Tapas",
+          "API Hugging Face kanggé model Tapas",
           "Model Tapas Google",
           "Model Gemini Google"
         ],
         "features": [
-          "Otentikasi dan Verifikasi Pengguna: Sistem login yang aman dengan langkah verifikasi.",
-          "Penguraian dan Tampilan Data CSV: Membaca file CSV, menguraikannya ke dalam format peta, dan menampilkan data kolom dengan contoh baris.",
-          "Integrasi Model AI: Menggunakan model Tapas dari Hugging Face untuk menjawab pertanyaan bahasa alami dari data CSV dan model Gemini Google untuk memberikan rekomendasi percakapan.",
-          "Interaksi Dinamis: Pengguna dapat mengajukan pertanyaan kepada AI untuk wawasan atau rekomendasi berdasarkan data CSV."
+          "Otentikasi lan Verifikasi Pengguna: Sistem login aman kanthi langkah verifikasi.",
+          "Penguraian lan Tampilan Data CSV: Mbacut file CSV, nguraikaken dhateng format peta, lan nampilaken data kolom kaliyan conto baris.",
+          "Integrasi Model AI: Ngginakaken model Tapas saking Hugging Face kanggé njawab pitakenan basa alami saking data CSV lan model Gemini Google kanggé maringi rekomendasi percakapan.",
+          "Interaksi Dinamis: Pangguna saged nglajengaken pitakenan dhateng AI kanggé wawasan utawa rekomendasi adhedhasar data CSV."
         ],
-        "contribution": "Saya mengembangkan aplikasi web untuk membaca data CSV, menerapkan model AI untuk menjawab pertanyaan dan memberikan rekomendasi, serta mengelola interaksi pengguna dengan efektif menggunakan Go dan teknologi terkait.",
+        "contribution": "Kula ngembangaken aplikasi web kanggé maos data CSV, nerapaken model AI kanggé njawab pitakenan lan maringi rekomendasi, saha ngelola interaksi pangguna kanthi efektif ngginakaken Go lan teknologi terkait.",
         "links": [
           {
-            "text": "Live",
+            "text": "Pranala Langsung",
             "href": "https://github.com/arizdn234/AI-Enhanced-CSV-Query-Web-Application",
             "class": "btn btn-sm"
           },
@@ -393,9 +393,9 @@
       },
       {
         "name": "star",
-        "title": "Authentication System (Golang, Gin)",
+        "title": "Sistem Otentikasi (Golang, Gin)",
         "image": "web-api-default.svg",
-        "description": "Sistem otentikasi pengguna yang dibangun dengan framework Gin di Golang, menampilkan otorisasi berbasis JWT dan operasi CRUD untuk data pengguna menggunakan SQLite dan GORM.",
+        "description": "Sistem iki dibangun nganggo framework Gin ing Golang lan ngatur otentikasi panganggo kanthi sistem otorisasi berbasis JWT, uga nduweni fitur operasi CRUD kanggo ngolah data panganggo nganggo SQLite lan GORM.",
         "technologies": [
           "Golang",
           "Framework Gin",
@@ -406,19 +406,19 @@
           "Gomega"
         ],
         "features": [
-          "Otentikasi dan Otorisasi Berbasis JWT",
-          "Hashing Kata Sandi untuk Penyimpanan Data yang Aman",
-          "Basis Data SQLite dengan ORM GORM",
-          "Operasi CRUD Lengkap untuk Manajemen Pengguna",
-          "Pengujian Unit dengan Ginkgo dan Gomega",
-          "Struktur Proyek Modular dengan Pemisahan Tugas yang Jelas",
-          "Endpoint API RESTful dengan Kontrol Akses Aman",
-          "Manajemen Sesi Pengguna dengan Token JWT Berbasis Cookie"
+          "Otentikasi lan otorisasi berbasis JWT",
+          "Hashing sandi kanggo keamanan data",
+          "Database SQLite nganggo ORM GORM",
+          "Operasi CRUD lengkap kanggo manajemen data panganggo",
+          "Pengujian kode nganggo Ginkgo lan Gomega",
+          "Struktur proyek modular kanggo ngatur tugas kanthi jelas",
+          "Endpoint API RESTful kanthi kontrol akses sing aman",
+          "Manajemen sesi nganggo token JWT berbasis cookie"
         ],
-        "contribution": "Merancang dan mengimplementasikan sistem otentikasi dan manajemen pengguna yang kuat di Golang menggunakan framework Gin. Kontribusi utama termasuk mengembangkan otentikasi berbasis JWT untuk kontrol akses yang aman, mengintegrasikan SQLite dengan GORM untuk manajemen basis data yang efektif, serta menyiapkan framework pengujian komprehensif (Ginkgo dan Gomega) untuk memastikan keandalan kode. Saya juga menyusun proyek agar mengikuti praktik terbaik dengan komponen modular untuk memastikan kemudahan pemeliharaan dan skalabilitas.",
+        "contribution": "Kula ngrancang lan nggawe sistem otentikasi sing kuwat nganggo framework Gin. Kula melu nggawe otorisasi berbasis JWT, ngatur database SQLite nganggo GORM, lan nyiapake framework pengujian nganggo Ginkgo lan Gomega kanggo njamin kualitas kode. Proyek iki diatur kanthi struktur modular supaya gampang dijaga lan dioptimalake.",
         "links": [
           {
-            "text": "Live",
+            "text": "Pranala Langsung",
             "href": "https://github.com/arizdn234/crud-users-and-login-system-with-gin",
             "class": "btn btn-sm"
           },
@@ -433,16 +433,20 @@
         "name": "star",
         "title": "Task Tracker Plus",
         "image": "ttp.png",
-        "description": "Task Tracker Plus adalah aplikasi monolitik yang dibangun menggunakan Go (Golang) untuk mengelola jadwal belajar. Aplikasi ini menyediakan API REST dengan kemampuan CRUD penuh untuk mengelola pengguna, tugas, dan kategori, serta mengikuti arsitektur MVC (Model-View-Controller).",
-        "technologies": ["Go (Golang)", "REST API", "Arsitektur MVC"],
-        "features": [
-          "Pengembangan Backend (Server): Mengembangkan dan mengimplementasikan API REST untuk mengelola Pengguna, Tugas, dan Kategori dengan operasi CRUD penuh serta otentikasi pengguna.",
-          "Pengembangan Frontend (Client): Membangun antarmuka pengguna dengan pola MVC termasuk login, pendaftaran, dasbor, dan halaman manajemen untuk tugas dan kategori."
+        "description": "Task Tracker Plus iku aplikasi monolitik sing dibangun nganggo Go (Golang) kanggo ngatur jadwal sinau. Aplikasi iki nyedhiyakake REST API kanthi kemampuan CRUD kanggo ngatur data panganggo, tugas, lan kategori, nggunakake arsitektur MVC (Model-View-Controller).",
+        "technologies": [
+          "Go (Golang)",
+          "REST API",
+          "Arsitektur MVC"
         ],
-        "contribution": "Saya berkontribusi pada pengembangan backend dengan mengimplementasikan API REST untuk mengelola pengguna, tugas, dan kategori. Saya memastikan otentikasi pengguna yang aman dan fungsionalitas CRUD penuh menggunakan bahasa pemrograman Go dan arsitektur MVC.",
+        "features": [
+          "Ngembangake REST API kanggo ngatur panganggo, tugas, lan kategori kanthi fitur CRUD lan otentikasi.",
+          "Mbangun antarmuka panganggo nganggo pola MVC, kalebu login, registrasi, dasbor, lan manajemen tugas utawa kategori."
+        ],
+        "contribution": "Kula ngrancang backend kanggo API REST sing ngatur data panganggo, tugas, lan kategori. Kula njamin keamanan otentikasi lan fungsi CRUD lengkap nggunakake basa pemrograman Go lan struktur arsitektur MVC.",
         "links": [
           {
-            "text": "Live",
+            "text": "Pranala Langsung",
             "href": "https://github.com/arizdn234/Final-Course-Project-TTP",
             "class": "btn btn-sm"
           },
@@ -457,7 +461,7 @@
         "name": "star",
         "title": "Bookstore REST API",
         "image": "web-api-default.svg",
-        "description": "API RESTful berbasis Nodejs yang kuat dan serbaguna yang dirancang untuk mengelola toko buku, menyediakan endpoint untuk manajemen akun pengguna, serta operasi CRUD untuk buku.",
+        "description": "API RESTful berbasis Node.js sing kuwat lan fleksibel kanggo ngatur toko buku. API iki nyedhiyakake endpoint kanggo manajemen akun panganggo lan operasi CRUD kanggo data buku.",
         "technologies": [
           "Node.js",
           "Express",
@@ -467,17 +471,17 @@
           "jsonwebtoken"
         ],
         "features": [
-          "Registrasi dan login akun pengguna",
-          "Mengambil daftar semua buku",
-          "Mengakses informasi detail tentang buku tertentu",
-          "Menambah buku baru ke inventaris",
-          "Memperbarui detail buku",
-          "Menghapus buku dari inventaris"
+          "Registrasi lan login akun panganggo",
+          "Ngundhuh daftar kabeh buku",
+          "Ngakses informasi rinci babagan buku tartamtu",
+          "Nambah buku anyar menyang inventaris",
+          "Nganyari detail buku",
+          "Mbusak buku saka inventaris"
         ],
-        "contribution": "Mengembangkan seluruh API dari awal, termasuk menyiapkan lingkungan Node.js, mengonfigurasi basis data dengan Sequelize, membuat rute untuk otentikasi pengguna dan operasi buku, serta menerapkan middleware untuk keamanan dan validasi.",
+        "contribution": "Kula nggawe API iki wiwit wiwitan, kalebu nyiyapake lingkungan Node.js, ngatur basis data nggunakake Sequelize, nggawe rute kanggo otentikasi panganggo lan operasi buku, lan ngetrapake middleware kanggo njamin keamanan lan validasi.",
         "links": [
           {
-            "text": "Live",
+            "text": "Pranala Langsung",
             "href": "https://github.com/arizdn234/bookstore-api",
             "class": "btn btn-sm"
           },
@@ -513,22 +517,26 @@
         "name": "webapp",
         "title": "Situs Web Pribadi",
         "image": "web-profile-112.svg",
-        "description": "Mengembangkan situs web pribadi yang canggih untuk menampilkan latar belakang profesional, keterampilan, dan proyek portofolio dalam tampilan yang menarik secara visual dan mudah digunakan.",
-        "technologies": ["HTML", "CSS", "JavaScript"],
-        "features": [
-          "Desain Responsif Sepenuhnya yang memastikan pengalaman mulus di semua perangkat",
-          "Bagian Portofolio Interaktif dengan penyaringan proyek dinamis",
-          "Formulir Kontak terintegrasi dengan EmailJS untuk komunikasi langsung",
-          "Aplikasi Halaman Tunggal (SPA) untuk navigasi yang lancar dan cepat",
-          "Pengguliran Halus yang Diberi Animasi dan Penyorotan Bagian",
-          "Lazy Loading untuk waktu muat halaman yang lebih cepat",
-          "Tombol Pengalih Tema Gelap dan Terang untuk pengalaman pengguna yang lebih baik",
-          "Dukungan Multi-bahasa [Indonesia, Inggris]"
+        "description": "Nggarap situs web pribadi sing modern kanggo nuduhake latar mburi profesional, keterampilan, lan proyek portofolio kanthi tampilan sing apik lan gampang dienggo.",
+        "technologies": [
+          "HTML",
+          "CSS",
+          "JavaScript"
         ],
-        "contribution": "Memimpin desain dan pengembangan situs web pribadi dari awal hingga akhir, menekankan desain yang bersih dan modern dipadukan dengan pengalaman pengguna yang intuitif. Memanfaatkan teknologi web inti seperti HTML, CSS, dan JavaScript untuk membangun situs yang sepenuhnya responsif dan interaktif. Menambahkan fitur lanjutan seperti pengalih tema antara mode gelap dan terang, serta dukungan multi-bahasa untuk menjangkau audiens yang lebih luas. Mengintegrasikan EmailJS untuk komunikasi real-time dan mengoptimalkan kinerja dengan lazy loading. Menerapkan dan memelihara situs menggunakan GitHub Pages, memastikan ketersediaan terus-menerus dan kemudahan pembaruan.",
+        "features": [
+          "Desain Responsif Lengkap kanggo pengalaman panganggo sing lancar ing kabeh piranti",
+          "Bagian Portofolio Interaktif kanthi filter proyek dinamis",
+          "Formulir Kontak sing diintegrasi nganggo EmailJS kanggo komunikasi langsung",
+          "Aplikasi Halaman Tunggal (SPA) kanggo navigasi sing luwih cepet lan lancar",
+          "Pengguliran Halus sing Diberi Animasi lan Penyorotan Bagian",
+          "Lazy Loading kanggo nyepetake wektu muat halaman",
+          "Tombol Pengalih Tema Padhang lan Peteng kanggo pengalaman panganggo sing luwih apik",
+          "Dukungan Multi-basa [Basa Jawa, Basa Inggris]"
+        ],
+        "contribution": "Kula ngrancang lan ngembangake situs web pribadi saka wiwitan nganti rampung, nambah desain sing resik lan modern kanthi pengalaman panganggo sing intuisi. Kula nggunakake teknologi web dhasar kaya HTML, CSS, lan JavaScript kanggo nggawe situs sing responsif lan interaktif. Kula nambahake fitur-fitur kaya pengalih tema antarane mode padhang lan peteng, uga dukungan multi-basa supaya bisa njangkau audiens luwih jembar. Integrasi karo EmailJS kanggo komunikasi real-time lan optimalisasi kinerja kanthi lazy loading. Situs iki diterapake lan dijaga liwat GitHub Pages kanggo njamin ketersediaan lan kemudahan pembaruan.",
         "links": [
           {
-            "text": "Live",
+            "text": "Pranala Langsung",
             "href": "https://arizdn234.github.io/arz-portfolio-112",
             "class": "btn btn-sm"
           },
@@ -543,7 +551,7 @@
         "name": "webapp",
         "title": "Sistem Autentikasi (Django)",
         "image": "auth-django.svg",
-        "description": "Aplikasi sederhana menggunakan Django untuk mengelola otentikasi pengguna, termasuk registrasi, login, dan otentikasi melalui akun Google, Facebook, dan Github.",
+        "description": "Aplikasi sederhana nganggo Django kanggo ngatur autentikasi panganggo, kalebu registrasi, login, lan autentikasi liwat akun Google, Facebook, lan Github.",
         "technologies": [
           "Django",
           "Python",
@@ -553,16 +561,16 @@
           "Github API"
         ],
         "features": [
-          "Registrasi Pengguna",
-          "Login Pengguna",
-          "Login/Registrasi dengan Akun Google",
-          "Login/Registrasi dengan Akun Facebook",
-          "Login/Registrasi dengan Akun Github"
+          "Registrasi Panganggo",
+          "Login Panganggo",
+          "Login/Registrasi nganggo Akun Google",
+          "Login/Registrasi nganggo Akun Facebook",
+          "Login/Registrasi nganggo Akun Github"
         ],
-        "contribution": "Mengimplementasikan sistem otentikasi berbasis Django, termasuk integrasi OAuth untuk Google, Facebook, dan Github.",
+        "contribution": "Kula ngleksanakake sistem autentikasi adhedhasar Django, kalebu integrasi OAuth kanggo Google, Facebook, lan Github.",
         "links": [
           {
-            "text": "Live",
+            "text": "Pranala Langsung",
             "href": "",
             "class": "btn btn-sm"
           },
@@ -575,9 +583,9 @@
       },
       {
         "name": "webapp",
-        "title": "Otentikasi Pengguna dengan Akun Google (Node.js)",
+        "title": "Autentikasi Panganggo nganggo Akun Google (Node.js)",
         "image": "auth-js.svg",
-        "description": "Proyek ini mendemonstrasikan otentikasi pengguna menggunakan akun Google dengan Node.js, Express, dan Passport.",
+        "description": "Proyek iki nuduhake autentikasi panganggo nggunakake akun Google nganggo Node.js, Express, lan Passport.",
         "technologies": [
           "Node.js",
           "Express",
@@ -587,16 +595,16 @@
           "Express Session"
         ],
         "features": [
-          "Otentikasi Pengguna menggunakan Akun Google",
-          "Pengelolaan Sesi dengan Express Session",
-          "Penggunaan Passport untuk Otentikasi OAuth",
-          "Tampilan Dinamis menggunakan EJS",
-          "Implementasi Google OAuth untuk Login"
+          "Autentikasi Panganggo nggunakake Akun Google",
+          "Manajemen Sesi nganggo Express Session",
+          "Panggunaan Passport kanggo Autentikasi OAuth",
+          "Tampilan Dinamis nganggo EJS",
+          "Implementasi Google OAuth kanggo Login"
         ],
-        "contribution": "Mengembangkan fitur otentikasi berbasis Google OAuth, termasuk integrasi dengan Passport dan pengelolaan sesi dengan Express Session.",
+        "contribution": "Kula ngembangake fitur autentikasi adhedhasar Google OAuth, kalebu integrasi karo Passport lan manajemen sesi nganggo Express Session.",
         "links": [
           {
-            "text": "Live",
+            "text": "Pranala Langsung",
             "href": "",
             "class": "btn btn-sm"
           },
@@ -611,19 +619,23 @@
         "name": "webapp",
         "title": "Kanban App - Tema Modern",
         "image": "kanban-app.svg",
-        "description": "Kanban App adalah aplikasi manajemen tugas berbasis web dengan tema modern. Aplikasi ini memungkinkan pengguna untuk membuat, mengedit, memindahkan, dan menghapus tugas pada papan Kanban dengan tiga kolom: Backlog, On Progress, dan Done.",
-        "technologies": ["HTML", "CSS", "JavaScript"],
-        "features": [
-          "Buat Tugas Baru: Masukkan nama tugas dan klik tombol 'Buat' untuk menambahkannya ke kolom Backlog.",
-          "Edit Tugas: Klik dua kali pada nama tugas untuk mengeditnya.",
-          "Pindah Tugas: Gunakan tombol 'pindah' untuk memindahkan tugas antar kolom.",
-          "Hapus Tugas: Klik tombol 'hapus' untuk menghapus tugas dari papan.",
-          "Drag and Drop: Seret dan jatuhkan tugas antar kolom."
+        "description": "Kanban App punika aplikasi manajemen tugas berbasis web kanthi tema modern. Aplikasi punika ngidini pangguna kanggé nggawe, nyunting, mindhah, lan mbusak tugas ing papan Kanban kanthi tiga kolom: Backlog, On Progress, lan Done.",
+        "technologies": [
+          "HTML",
+          "CSS",
+          "JavaScript"
         ],
-        "contribution": "Menambahkan fitur-fitur penting seperti drag and drop untuk memindahkan tugas antar kolom. Memperbaiki beberapa bug yang ada pada versi sebelumnya. Mengoptimalkan kode untuk meningkatkan performa aplikasi. Memperbaiki antarmuka pengguna agar lebih responsif dan intuitif.",
+        "features": [
+          "Gawe Tugas Anyar: Lebetaken nama tugas lan klik tombol 'Gawe' kanggé nambahaken wonten kolom Backlog.",
+          "Sunting Tugas: Klik kaping kalih wonten nama tugas kanggé nyuntingipun.",
+          "Mindhah Tugas: Gunakaken tombol 'Mindhah' kanggé mindhah tugas antar kolom.",
+          "Busak Tugas: Klik tombol 'Busak' kanggé mbusak tugas saking papan.",
+          "Drag and Drop: Tarik lan selehaken tugas antar kolom."
+        ],
+        "contribution": "Kula nambahaken fitur-fitur wigati kados drag and drop kanggé mindhah tugas antar kolom. Ngresiki sawetawis bug ing versi sadèrèngipun. Ngoptimalaken kode kanggé ningkataken performa aplikasi. Nggawé antarmuka pangguna langkung responsif lan intuitif.",
         "links": [
           {
-            "text": "Live",
+            "text": "Pranala Langsung",
             "href": "https://arizdn234.github.io/Kanban-App/",
             "class": "btn btn-sm"
           },
@@ -638,18 +650,23 @@
         "name": "webapp",
         "title": "Music Fetch (Express, Multer)",
         "image": "music-fetch.svg",
-        "description": "Music Fetch adalah aplikasi web Nodejs untuk mengelola data musik dengan operasi CRUD menggunakan Expressjs dan Multer untuk penanganan file. Aplikasi ini menawarkan antarmuka yang sederhana untuk manipulasi data musik yang efisien.",
-        "technologies": ["Node.js", "Express.js", "Multer", "JSON"],
-        "features": [
-          "CRUD untuk data musik dalam JSON",
-          "Pengunggahan file dengan Multer",
-          "Antarmuka pengguna intuitif",
-          "Efisiensi pengolahan data dan permintaan"
+        "description": "Music Fetch punika aplikasi web Nodejs kanggé ngatur data musik kanthi operasi CRUD nggunakake Expressjs lan Multer kanggé penanganan file. Aplikasi punika nawuhake antarmuka prasaja kanggé manipulasi data musik kanthi efisien.",
+        "technologies": [
+          "Node.js",
+          "Express.js",
+          "Multer",
+          "JSON"
         ],
-        "contribution": "Mengembangkan Music Fetch dengan Node.js dan Express.js untuk manajemen data musik dan pengunggahan file menggunakan Multer. Fokus pada arsitektur aplikasi yang efisien dan antarmuka pengguna yang mudah digunakan.",
+        "features": [
+          "CRUD kanggé data musik wonten format JSON",
+          "Unggah file kanthi Multer",
+          "Antarmuka pangguna ingkang intuitif",
+          "Efisiensi pengolahan data lan panyuwunan"
+        ],
+        "contribution": "Ngembangaken Music Fetch kanthi Node.js lan Express.js kanggé manajemen data musik lan unggah file kanthi Multer. Fokus dhumateng arsitektur aplikasi ingkang efisien lan antarmuka pangguna ingkang gampang dipigunakaken.",
         "links": [
           {
-            "text": "Live",
+            "text": "Pranala Langsung",
             "href": "",
             "class": "btn btn-sm"
           },
@@ -662,20 +679,24 @@
       },
       {
         "name": "webapp",
-        "title": "Modern Business Landing Page Project",
+        "title": "Proyek Landing Page Bisnis Modern",
         "image": "business-landing-page.svg",
-        "description": "Proyek ini bertujuan untuk mereplikasi dan meningkatkan kualitas sebuah landing page yang telah dirancang secara visual di Figma. Dengan memanfaatkan teknologi web modern seperti HTML, CSS, dan JavaScript, mengembangkan landing page yang tidak hanya mencerminkan desain yang ditetapkan tetapi juga menambahkan sentuhan fungsionalitas dan estetika tambahan. Berfokus pada penciptaan elemen-elemen visual yang menarik, interaksi yang mulus, dan pengalaman pengguna yang menyenangkan. Juga memastikan bahwa halaman ini responsif dan dioptimalkan untuk berbagai perangkat, dengan implementasi animasi halus dan transisi yang meningkatkan pengalaman visual secara keseluruhan.",
-        "technologies": ["HTML", "CSS", "JavaScript"],
-        "features": [
-          "Section A: Header & Banner",
-          "Section B: Product Features 1 & Features",
-          "Section C: About & Pricing",
-          "Section D: Contact & Footer"
+        "description": "Proyek punika ngarahaken kanggé niru lan ningkataken kualitas Landing Page ingkang sampun dirancang sacara visual wonten ing Figma. Kanthi migunakaken teknologi web modern kados HTML, CSS, lan JavaScript, ngembangaken Landing Page ingkang mboten namung nglambangaken desain ingkang sampun ditemtokaken nanging ugi nambahaken sentuhan fungsionalitas lan estetika tambahan. Fokus dhumateng pembuatan unsur-unsur visual ingkang menarik, interaksi ingkang mulus, lan pengalaman pangguna ingkang nyenengake. Ugi mesthekaken bilih halaman punika responsif lan dioptimalake kanggé piranti-piranti ingkang béda, kanthi implementasi animasi alus lan transisi ingkang nambahaken pengalaman visual sakabèhé.",
+        "technologies": [
+          "HTML",
+          "CSS",
+          "JavaScript"
         ],
-        "contribution": "Bertanggung jawab untuk mengerjakan Header & Banner, Product Features 1 & Features, About & Pricing, Contact & Footer. Selain itu, mengerjakan transisi, animasi, dan smooth scroll pada landing page. Kami telah berkolaborasi dalam meningkatkan style, fungsionalitas, dan fitur landing page serta menggabungkan perubahan pada repositori GitHub.",
+        "features": [
+          "Bagian A: Header & Banner",
+          "Bagian B: Fitur Produk 1 & Fitur",
+          "Bagian C: Babagan & Harga",
+          "Bagian D: Kontak & Footer"
+        ],
+        "contribution": "Tanggung jawab kanggo ngerjakaken Header & Banner, Fitur Produk 1 & Fitur, Babagan & Harga, Kontak & Footer. Salajengipun, ngerjakaken transisi, animasi, lan smooth scroll ing Landing Page. Kita sampun kolaborasi ing ningkataken gaya, fungsionalitas, lan fitur Landing Page sarta nggabungaken perubahan ing repositori GitHub.",
         "links": [
           {
-            "text": "Live",
+            "text": "Pranala Langsung",
             "href": "https://arizdn234.github.io/modern-business-landing-pages/",
             "class": "btn btn-sm"
           },
@@ -690,16 +711,20 @@
         "name": "webapp",
         "title": "Task Tracker Plus",
         "image": "ttp.png",
-        "description": "Task Tracker Plus adalah aplikasi monolitik yang dibangun menggunakan Go (Golang) untuk mengelola jadwal belajar. Aplikasi ini menyediakan REST API dengan kemampuan CRUD penuh untuk mengelola pengguna, tugas, dan kategori, serta mengikuti arsitektur MVC (Model-View-Controller).",
-        "technologies": ["Go (Golang)", "REST API", "Arsitektur MVC"],
-        "features": [
-          "Pengembangan Backend (Server): Mengembangkan dan mengimplementasikan REST API untuk mengelola Pengguna, Tugas, dan Kategori dengan operasi CRUD penuh dan autentikasi pengguna.",
-          "Pengembangan Frontend (Klien): Membangun antarmuka pengguna dengan pola MVC termasuk halaman login, pendaftaran, dashboard, dan halaman manajemen untuk tugas dan kategori."
+        "description": "Task Tracker Plus punika aplikasi monolitik ingkang dipunbangun ngginakaken Go (Golang) kanggé ngatur jadwal sinau. Aplikasi punika nyedhiyakake REST API kanthi kemampuan CRUD cekap kanggé ngatur pangguna, tugas, lan kategori, saha nganut arsitektur MVC (Model-View-Controller).",
+        "technologies": [
+          "Go (Golang)",
+          "REST API",
+          "Arsitektur MVC"
         ],
-        "contribution": "Saya berkontribusi dalam pengembangan backend dengan mengimplementasikan REST API untuk mengelola pengguna, tugas, dan kategori. Saya memastikan autentikasi pengguna yang aman dan fungsi CRUD penuh menggunakan bahasa pemrograman Go dan arsitektur MVC.",
+        "features": [
+          "Pangembangan Backend (Server): Nganggo lan ngleksanakake REST API kanggé ngatur Pangguna, Tugas, lan Kategori kanthi operasi CRUD cekap lan autentikasi pangguna.",
+          "Pangembangan Frontend (Klien): Ngembangake antarmuka pangguna kanthi pola MVC kalebu kaca login, registrasi, dashboard, lan kaca manajemen kanggé tugas lan kategori."
+        ],
+        "contribution": "Kula nyumbang ing pangembangan backend kanthi ngleksanakake REST API kanggé ngatur pangguna, tugas, lan kategori. Kula mesthekake autentikasi pangguna ingkang aman lan fungsi CRUD cekap ngginakaken basa pamrograman Go lan arsitektur MVC.",
         "links": [
           {
-            "text": "Live",
+            "text": "Pranala Langsung",
             "href": "https://github.com/arizdn234/Final-Course-Project-TTP",
             "class": "btn btn-sm"
           },
@@ -712,27 +737,27 @@
       },
       {
         "name": "webapp",
-        "title": "Aplikasi Web Query CSV yang Ditenagai AI",
+        "title": "Aplikasi Web Query CSV ingkang Ditenagai AI",
         "image": "",
-        "description": "Aplikasi web ini memungkinkan pengguna untuk berinteraksi dengan data CSV menggunakan model AI. Pengguna dapat masuk, melihat data CSV yang diparsing, dan mengajukan pertanyaan yang dijawab oleh model AI, mengintegrasikan Gemini dari Google dan Tapas dari Hugging Face untuk respons berbasis data.",
+        "description": "Aplikasi web punika ngidini pangguna kanggé berinteraksi kaliyan data CSV ngginakaken model AI. Pangguna saged mlebet, ningali data CSV ingkang diparsing, lan nyuwun pitakenan ingkang bakal dipun jawab dening model AI, nggabungake Gemini saking Google lan Tapas saking Hugging Face kanggé wangsulan adhedhasar data.",
         "technologies": [
           "Go (Golang)",
           "Gin Web Framework",
           "Google Generative AI Go SDK",
-          "API Hugging Face untuk model Tapas",
+          "API Hugging Face kanggé model Tapas",
           "Model Tapas Google",
           "Model Gemini Google"
         ],
         "features": [
-          "Autentikasi dan Verifikasi Pengguna: Sistem login yang aman dengan langkah verifikasi.",
-          "Parsing dan Tampilan Data CSV: Membaca file CSV, memparsingnya ke format peta, dan menampilkan data kolom dengan contoh baris.",
-          "Integrasi Model AI: Menggunakan model Tapas dari Hugging Face untuk menjawab pertanyaan bahasa alami dari data CSV dan model Gemini Google untuk memberikan rekomendasi berbasis percakapan.",
-          "Interaksi Dinamis: Pengguna dapat mengajukan pertanyaan kepada AI untuk mendapatkan wawasan atau rekomendasi berdasarkan data CSV."
+          "Autentikasi lan Verifikasi Pengguna: Sistem login ingkang aman kanthi langkah verifikasi.",
+          "Parsing lan Tampilan Data CSV: Maca file CSV, parsing dados format peta, lan nampilake data kolom kanthi conto baris.",
+          "Integrasi Model AI: Nggunakaken model Tapas saking Hugging Face kanggé njawab pitakenan basa alami saking data CSV lan model Gemini Google kanggé paring rekomendasi adhedhasar percakapan.",
+          "Interaksi Dinamis: Pangguna saged nyuwun pitakenan dhateng AI kanggé angsal wawasan utawa rekomendasi adhedhasar data CSV."
         ],
-        "contribution": "Saya mengembangkan aplikasi web untuk membaca data CSV, mengimplementasikan model AI untuk menjawab pertanyaan dan memberikan rekomendasi, serta mengelola interaksi pengguna secara efektif menggunakan Go dan teknologi terkait.",
+        "contribution": "Kula ngembangake aplikasi web kanggé maca data CSV, ngleksanakake model AI kanggé njawab pitakenan lan paring rekomendasi, lan ngatur interaksi pangguna kanthi efektif ngginakaken Go lan teknologi ingkang magepokan.",
         "links": [
           {
-            "text": "Live",
+            "text": "Pranala Langsung",
             "href": "https://github.com/arizdn234/AI-Enhanced-CSV-Query-Web-Application",
             "class": "btn btn-sm"
           },
@@ -747,7 +772,7 @@
         "name": "webapp",
         "title": "Platform E-Commerce Terintegrasi",
         "image": "uni-sell-1.svg",
-        "description": "Platform e-commerce kami adalah solusi komprehensif yang dirancang untuk memfasilitasi penjualan produk fisik dan digital. Platform ini menampilkan backend yang kuat menggunakan Laravel, frontend dinamis yang dikembangkan dengan Vue.js, dan mikroservis khusus yang dikelola oleh Express.js. Platform ini dikontainerisasi menggunakan Docker untuk konsistensi dalam penyebaran dan skalabilitas. Fitur utamanya meliputi manajemen produk, pelacakan inventaris waktu nyata, checkout aman, pemrosesan pembayaran, dan ulasan pengguna. Arsitektur ini memastikan pengalaman yang skalabel, dapat dipelihara, dan ramah pengguna untuk mengelola dan membeli produk secara online.",
+        "description": "Platform e-commerce kula punika solusi komprehensif ingkang dipunrancang kanggé memfasilitasi penjualan produk fisik lan digital. Platform punika nampilake backend ingkang kuat ngginakaken Laravel, frontend dinamis ingkang dipunkembangaken kaliyan Vue.js, lan mikroservis khusus ingkang dikelola dening Express.js. Platform punika dipunkontainerisasi ngginakaken Docker kanggé konsistensi ing penyebaran lan skalabilitas. Fitur utami kalebet manajemen produk, pelacakan inventaris waktu nyata, checkout aman, pemrosesan pembayaran, lan ulasan pengguna. Arsitektur punika njamin pengalaman ingkang skalabel, saged dipunrawat, lan ramah pengguna kanggé ngelola lan ngedol produk sacara online.",
         "technologies": [
           "Laravel (Framework PHP)",
           "Vue.js (Framework JavaScript)",
@@ -756,16 +781,16 @@
           "MySQL (Basis Data)"
         ],
         "features": [
-          "Katalog Produk: Manajemen komprehensif daftar produk dan kategori.",
-          "Keranjang Belanja dan Checkout: Pembaruan keranjang waktu nyata, checkout aman, dan berbagai gateway pembayaran.",
-          "Integrasi Pembayaran: Mendukung Stripe, PayPal, dan pemroses pembayaran lainnya.",
-          "Manajemen Pesanan dan Inventaris: Pelacakan pesanan waktu nyata dan pembaruan inventaris otomatis.",
-          "Sistem Ulasan dan Rating: Memungkinkan ulasan dan rating pengguna dengan fitur moderasi."
+          "Katalog Produk: Manajemen komprehensif daftar produk lan kategori.",
+          "Keranjang Belanja lan Checkout: Pembaruan keranjang waktu nyata, checkout aman, lan macem-macem gateway pembayaran.",
+          "Integrasi Pembayaran: Nyokong Stripe, PayPal, lan pemroses pembayaran sanesipun.",
+          "Manajemen Pesanan lan Inventaris: Pelacakan pesanan waktu nyata lan pembaruan inventaris otomatis.",
+          "Sistem Ulasan lan Rating: Nglampahi ulasan lan rating pangguna kaliyan fitur moderasi."
         ],
-        "contribution": "Saya mengembangkan platform e-commerce terintegrasi ini, menggunakan Laravel untuk layanan backend, Vue.js untuk frontend, dan Express.js untuk mikroservis API. Saya juga mengelola kontainerisasi Docker untuk lingkungan penyebaran yang konsisten dan mengintegrasikan berbagai teknologi untuk memastikan skalabilitas dan pemeliharaan.",
+        "contribution": "Kula ngembangaken platform e-commerce terintegrasi punika, ngginakaken Laravel kanggé layanan backend, Vue.js kanggé frontend, lan Express.js kanggé mikroservis API. Kula ugi ngelola kontainerisasi Docker kanggé lingkungan penyebaran ingkang konsisten lan nggabungake maneka teknologi kanggé njamin skalabilitas lan pemeliharaan.",
         "links": [
           {
-            "text": "Live",
+            "text": "Pranala Langsung",
             "href": "https://github.com/arizdn234/uni-sell",
             "class": "btn btn-sm"
           },
@@ -801,7 +826,7 @@
         "name": "webapi",
         "title": "Sistem Autentikasi (Golang, Gin)",
         "image": "web-api-default.svg",
-        "description": "Sistem autentikasi pengguna yang dibangun dengan framework Gin di Golang, mendukung otorisasi berbasis JWT dan operasi CRUD untuk data pengguna menggunakan SQLite dan GORM.",
+        "description": "Sistem autentikasi pangguna ingkang dibangun kaliyan framework Gin ing Golang, nyokong otorisasi berbasis JWT lan operasi CRUD kanggé data pangguna ngginakaken SQLite lan GORM.",
         "technologies": [
           "Golang",
           "Gin Framework",
@@ -812,16 +837,16 @@
           "Gomega"
         ],
         "features": [
-          "Autentikasi dan Otorisasi Berbasis JWT",
-          "Hashing Kata Sandi untuk Penyimpanan Data yang Aman",
-          "Basis Data SQLite dengan GORM ORM",
-          "Operasi CRUD Komprehensif untuk Manajemen Pengguna",
-          "Pengujian Unit dengan Ginkgo dan Gomega",
-          "Struktur Proyek Modular dengan Pemisahan Tanggung Jawab yang Jelas",
-          "Endpoint API RESTful dengan Kontrol Akses yang Aman",
-          "Manajemen Sesi Pengguna dengan Token JWT Berbasis Cookie"
+          "Autentikasi lan Otorisasi Berbasis JWT",
+          "Hashing Kata Sandi kanggé Penyimpanan Data ingkang Aman",
+          "Basis Data SQLite kaliyan GORM ORM",
+          "Operasi CRUD Komprehensif kanggé Manajemen Pengguna",
+          "Pengujian Unit kaliyan Ginkgo lan Gomega",
+          "Struktur Proyek Modular kaliyan Pemisahan Tanggung Jawab ingkang Jelas",
+          "Endpoint API RESTful kaliyan Kontrol Akses ingkang Aman",
+          "Manajemen Sesi Pengguna kaliyan Token JWT Berbasis Cookie"
         ],
-        "contribution": "Merancang dan mengimplementasikan sistem autentikasi dan manajemen pengguna yang tangguh di Golang menggunakan kerangka kerja Gin. Kontribusi utama mencakup pengembangan autentikasi berbasis JWT untuk kontrol akses yang aman, integrasi SQLite dengan GORM untuk manajemen basis data yang efektif, dan pengaturan kerangka pengujian yang komprehensif (Ginkgo dan Gomega) untuk memastikan keandalan kode. Menyusun proyek agar mengikuti praktik terbaik dengan komponen modular, memastikan kemudahan perawatan dan skalabilitas.",
+        "contribution": "Merancang lan ngimplementasikaken sistem autentikasi lan manajemen pengguna ingkang tangguh ing Golang ngginakaken kerangka kerja Gin. Kontribusi utama kalebet pengembangan autentikasi berbasis JWT kanggé kontrol akses ingkang aman, integrasi SQLite kaliyan GORM kanggé manajemen basis data ingkang efektif, lan pengaturan kerangka pengujian ingkang komprehensif (Ginkgo lan Gomega) kanggé njamin keandalan kode. Nyusun proyek supados manut praktik paling sae kaliyan komponen modular, njamin kemudahan perawatan lan skalabilitas.",
         "links": [
           {
             "text": "Live",
@@ -839,7 +864,7 @@
         "name": "webapi",
         "title": "Sistem Autentikasi (Golang)",
         "image": "web-api-default.svg",
-        "description": "Sistem manajemen pengguna yang komprehensif mencakup login, pendaftaran, logout, dan operasi CRUD untuk data pengguna, menggunakan JWT untuk akses yang aman.",
+        "description": "Sistem manajemen pengguna ingkang komprehensif kalebet login, pendaftaran, logout, lan operasi CRUD kanggé data pengguna, ngginakaken JWT kanggé akses ingkang aman.",
         "technologies": [
           "Golang",
           "Gin Framework",
@@ -850,15 +875,15 @@
           "Gomega"
         ],
         "features": [
-          "Autentikasi dan Otorisasi Berbasis JWT",
-          "Hashing Kata Sandi untuk Penyimpanan Data yang Aman",
-          "Database SQLite dengan GORM ORM",
-          "Operasi CRUD untuk Data Pengguna",
-          "Pengujian Komprehensif dengan Ginkgo dan Gomega",
-          "Pengaturan Server dengan Routing dan Middleware",
+          "Autentikasi lan Otorisasi Berbasis JWT",
+          "Hashing Kata Sandi kanggé Penyimpanan Data ingkang Aman",
+          "Database SQLite kaliyan GORM ORM",
+          "Operasi CRUD kanggé Data Pengguna",
+          "Pengujian Komprehensif kaliyan Ginkgo lan Gomega",
+          "Pengaturan Server kaliyan Routing lan Middleware",
           "Manajemen Migrasi Database"
         ],
-        "contribution": "Mengembangkan sistem manajemen pengguna yang skalabel dan aman dengan autentikasi berbasis JWT, operasi CRUD yang komprehensif, dan memastikan kualitas kode melalui kerangka kerja pengujian.",
+        "contribution": "Ngembangaken sistem manajemen pengguna ingkang skalabel lan aman kaliyan autentikasi berbasis JWT, operasi CRUD ingkang komprehensif, lan njamin kualitas kode lumantar kerangka kerja pengujian.",
         "links": [
           {
             "text": "Live",
@@ -876,7 +901,7 @@
         "name": "webapi",
         "title": "Bookstore REST API",
         "image": "web-api-default.svg",
-        "description": "API RESTful berbasis Nodejs yang kuat dan serbaguna yang dirancang untuk mengelola toko buku, menyediakan endpoint untuk manajemen akun pengguna, dan operasi CRUD untuk buku.",
+        "description": "API RESTful berbasis Nodejs ingkang kuwat lan serbaguna ingkang dirancang kanggé ngelola toko buku, nyedhiyakake endpoint kanggé manajemen akun pengguna, lan operasi CRUD kanggé buku.",
         "technologies": [
           "Node.js",
           "Express",
@@ -886,14 +911,14 @@
           "jsonwebtoken"
         ],
         "features": [
-          "Registrasi dan login akun pengguna",
-          "Mengambil daftar semua buku",
-          "Mengakses informasi detail tentang buku tertentu",
-          "Menambahkan buku baru ke inventaris",
-          "Memperbarui detail buku",
-          "Menghapus buku dari inventaris"
+          "Registrasi lan login akun pengguna",
+          "Ngambil daftar sadaya buku",
+          "Nggolek informasi detil babagan buku tartamtu",
+          "Nambah buku anyar menyang inventaris",
+          "Nganyarake detil buku",
+          "Ngapus buku saka inventaris"
         ],
-        "contribution": "Mengembangkan seluruh API dari awal, termasuk menyiapkan lingkungan Node.js, mengkonfigurasi database dengan Sequelize, membuat rute untuk autentikasi pengguna dan operasi buku, serta mengimplementasikan middleware untuk keamanan dan validasi.",
+        "contribution": "Ngembangaken API punika saka wiwitan, kalebet nyiyapake lingkungan Node.js, ngonfigurasi database nganggo Sequelize, nggawe rute kanggé autentikasi pengguna lan operasi buku, lan ngimplementasikaken middleware kanggé keamanan lan validasi.",
         "links": [
           {
             "text": "Live",
@@ -911,7 +936,7 @@
         "name": "webapi",
         "title": "API B2C E-Commerce (Node.js)",
         "image": "web-api-default.svg",
-        "description": "API back-end untuk aplikasi e-commerce B2C yang dibangun menggunakan Nodejs, Prisma, Express, dan PostgreSQL. API ini menangani manajemen produk, otentikasi pengguna, manajemen keranjang belanja, pemrosesan pesanan, dan penanganan pembayaran.",
+        "description": "API back-end kanggé aplikasi e-commerce B2C ingkang dibangun ngginakaken Nodejs, Prisma, Express, lan PostgreSQL. API punika ngurus manajemen produk, otentikasi pengguna, manajemen keranjang belanja, pemrosesan pesenan, lan penanganan pembayaran.",
         "technologies": [
           "Node.js",
           "Prisma",
@@ -920,15 +945,15 @@
           "Autentikasi JWT"
         ],
         "features": [
-          "Registrasi dan Login Pengguna",
+          "Registrasi lan Login Pengguna",
           "Manajemen Produk (operasi CRUD)",
-          "Manajemen Pengguna untuk Admin",
+          "Manajemen Pengguna kanggé Admin",
           "Manajemen Pesanan",
           "Pemrosesan Pembayaran",
-          "Pencarian dan Filter Produk",
+          "Pencarian lan Filter Produk",
           "Manajemen Keranjang Belanja"
         ],
-        "contribution": "Mengembangkan dan mengintegrasikan endpoint API RESTful untuk berbagai fungsi e-commerce. Mengimplementasikan otentikasi pengguna, manajemen produk, penanganan pesanan, dan pemrosesan pembayaran. Menyiapkan skema database PostgreSQL dan Prisma ORM untuk pemodelan data.",
+        "contribution": "Ngembangaken lan ngintegrasikaken endpoint API RESTful kanggé manéka fungsi e-commerce. Ngimplementasikaken otentikasi pengguna, manajemen produk, penanganan pesenan, lan pemrosesan pembayaran. Nyiyapake skema database PostgreSQL lan Prisma ORM kanggé pemodelan data.",
         "links": [
           {
             "text": "Live",
@@ -946,7 +971,7 @@
         "name": "webapi",
         "title": "API Ketersediaan Hotel Mawar Indah",
         "image": "web-api-default.svg",
-        "description": "API Ketersediaan Hotel Mawar Indah adalah layanan backend yang menyediakan informasi tentang ketersediaan kamar hotel. API ini memungkinkan klien untuk memeriksa ketersediaan kamar, melakukan reservasi, membatalkan reservasi, dan mendapatkan informasi detail kamar.",
+        "description": "API Ketersediaan Hotel Mawar Indah punika layanan backend ingkang nyedhiyakake informasi babagan ketersediaan kamar hotel. API punika ngidini klien kanggé mriksa ketersediaan kamar, nindakaken reservasi, mbatalaken reservasi, lan njupuk informasi detil kamar.",
         "technologies": [
           "Go (Golang) v1.22",
           "Gin Web Framework",
@@ -954,12 +979,12 @@
           "PostgreSQL"
         ],
         "features": [
-          "Pemeriksaan Ketersediaan Kamar: Klien dapat memeriksa ketersediaan kamar hotel yang saat ini belum dipesan.",
-          "Reservasi Kamar: Klien dapat melakukan reservasi untuk kamar hotel yang tersedia.",
-          "Pembatalan Reservasi: Klien dapat membatalkan reservasi yang telah dibuat.",
-          "Informasi Kamar: Klien dapat memperoleh informasi detail tentang kamar hotel, seperti fasilitas, harga, dan lainnya."
+          "Pemeriksaan Ketersediaan Kamar: Klien saged mriksa ketersediaan kamar hotel ingkang dereng dipunpesen.",
+          "Reservasi Kamar: Klien saged nindakaken reservasi kanggé kamar hotel ingkang kasedhiya.",
+          "Pembatalan Reservasi: Klien saged mbatalaken reservasi ingkang sampun dipunbuat.",
+          "Informasi Kamar: Klien saged njupuk informasi detil babagan kamar hotel, kados ta fasilitas, rega, lan sanesipun."
         ],
-        "contribution": "Saya berkontribusi dengan mengembangkan fungsionalitas backend utama untuk memeriksa ketersediaan kamar, menangani reservasi kamar, dan menerapkan logika pembatalan reservasi menggunakan Go dan framework Gin. Selain itu, saya mengintegrasikan GORM ORM untuk interaksi yang mulus dengan database PostgreSQL dan memastikan API mematuhi praktik terbaik untuk kinerja dan keamanan.",
+        "contribution": "Kula nyumbangaken ing ngembangaken fungsionalitas backend utama kanggé mriksa ketersediaan kamar, ngatur reservasi kamar, lan ngleksanani logika pembatalan reservasi ngginakaken Go lan framework Gin. Salajengipun, kula ngintegrasikaken GORM ORM kanggé interaksi ingkang lancar kaliyan database PostgreSQL lan mesthèkaken API punika ngetrapaken praktik paling apik kanggé kinerja lan keamanan.",
         "links": [
           {
             "text": "Live",
@@ -977,16 +1002,21 @@
         "name": "webapi",
         "title": "TransactHub",
         "image": "web-api-default.svg",
-        "description": "TransactHub adalah aplikasi backend yang dibangun dengan Node.js dan Express untuk menangani autentikasi pengguna, transaksi, dan manajemen data item menggunakan MySQL dan Sequelize ORM.",
-        "technologies": ["Node.js", "Express", "MySQL", "Sequelize"],
-        "features": [
-          "Autentikasi Pengguna: Menangani login pengguna, pendaftaran, dan autentikasi berbasis token.",
-          "Manajemen Dashboard: Menyediakan data untuk tampilan dashboard khusus pengguna.",
-          "Manajemen Item: Menangani operasi CRUD untuk item.",
-          "Penanganan Transaksi: Mengelola transaksi antara pengguna.",
-          "Manajemen Pengguna: Menangani operasi data terkait pengguna."
+        "description": "TransactHub punika aplikasi backend ingkang dibangun ngginakaken Node.js lan Express kanggé ngatur autentikasi pengguna, transaksi, lan manajemen data item ngginakaken MySQL lan Sequelize ORM.",
+        "technologies": [
+          "Node.js",
+          "Express",
+          "MySQL",
+          "Sequelize"
         ],
-        "contribution": "Saya berkontribusi dengan mengembangkan fungsionalitas backend, mengimplementasikan endpoint RESTful API untuk autentikasi pengguna, manajemen item, transaksi, dan operasi terkait pengguna menggunakan Node.js, Express, dan Sequelize.",
+        "features": [
+          "Autentikasi Pengguna: Nglola login pengguna, registrasi, lan autentikasi adhedhasar token.",
+          "Manajemen Dashboard: Nyedhiyakake data kanggé tampilan dashboard khusus pengguna.",
+          "Manajemen Item: Nglola operasi CRUD kanggé item.",
+          "Penanganan Transaksi: Nggelola transaksi antar pengguna.",
+          "Manajemen Pengguna: Nglola operasi data ingkang magepokan kaliyan pengguna."
+        ],
+        "contribution": "Kula nyumbangaken ing ngembangaken fungsionalitas backend, ngimplementasikaken endpoint RESTful API kanggé autentikasi pengguna, manajemen item, transaksi, lan operasi terkait pengguna ngginakaken Node.js, Express, lan Sequelize.",
         "links": [
           {
             "text": "Live",
@@ -1023,19 +1053,24 @@
       },
       {
         "name": "other",
-        "title": "Snake Game",
+        "title": "Game Ular",
         "image": "snake-game.svg",
-        "description": "Sebuah permainan ular di mana pemain mengendalikan ular untuk memakan umpan, menghindari bom, dan mencapai skor tertinggi.",
-        "technologies": ["HTML", "CSS", "JavaScript", "Local Storage"],
-        "features": [
-          "3 Tingkat Kesulitan: Mudah, Sedang, Sulit",
-          "Leaderboard untuk 5 Pemain Terbaik",
-          "Berbagai Item dengan Efek Spesifik",
-          "Fitur Pause, Play, dan Replay",
-          "Efek Suara dan Musik",
-          "Data pemain disimpan di local storage"
+        "description": "Game ular ingkang ingkang pemain ngontrol ular kanggé mangan umpan, nyingkiri bom, lan ngupados skor paling dhuwur.",
+        "technologies": [
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "Local Storage"
         ],
-        "contribution": "Mengembangkan logika permainan, mendesain antarmuka pengguna, dan mengimplementasikan leaderboard serta penyimpanan data pemain.",
+        "features": [
+          "3 Tingkat Kesulitan: Gampil, Sedang, Abot",
+          "Leaderboard kanggé 5 Pemain Paling Apik",
+          "Macem-macem Item kanthi Efek Spesifik",
+          "Fitur Pause, Play, lan Replay",
+          "Efek Suara lan Musik",
+          "Data pemain disimpen ing local storage"
+        ],
+        "contribution": "Ngembangaken logika game, ngrancang antarmuka panganggo, lan ngimplementasikaken leaderboard lan panyimpenan data pemain.",
         "links": [
           {
             "text": "Live",
@@ -1053,7 +1088,7 @@
         "name": "other",
         "title": "Sistem Manajemen Energi Rumah Pintar CLI",
         "image": "",
-        "description": "Sistem Manajemen Energi Rumah Pintar CLI adalah alat baris perintah yang memungkinkan pengguna untuk berinteraksi dengan data CSV, mengajukan pertanyaan, dan mendapatkan rekomendasi berbasis AI menggunakan model TAPAS dari Google dan model Mixtral AI dari Mistral melalui API Hugging Face.",
+        "description": "Sistem Manajemen Energi Rumah Pintar CLI punika piranti baris perintah ingkang ngidini panganggo kanggé sesambetan kaliyan data CSV, ngajukan pitakon, lan nampi rekomendasi berbasis AI ngginakaken model TAPAS saking Google lan model Mixtral AI saking Mistral ngliwati API Hugging Face.",
         "technologies": [
           "Go (Golang)",
           "Model TAPAS Google",
@@ -1061,11 +1096,11 @@
           "API Hugging Face"
         ],
         "features": [
-          "Parsing CSV: Membaca dan memproses data dari file CSV untuk memberikan wawasan.",
-          "Jawaban Bertenaga AI: Menggunakan model TAPAS dari Google untuk menjawab pertanyaan tentang data tabel.",
-          "Rekomendasi AI: Memberikan rekomendasi menggunakan model Mixtral AI dari Mistral."
+          "Parsing CSV: Mbacut lan ngolah data saking file CSV kanggé maringi wawasan.",
+          "Jawaban Bertenaga AI: Ngginakaken model TAPAS saking Google kanggé njawab pitakon babagan data tabel.",
+          "Rekomendasi AI: Maringi rekomendasi ngginakaken model Mixtral AI saking Mistral."
         ],
-        "contribution": "Saya mengembangkan alat CLI untuk membaca data CSV, mengimplementasikan model AI untuk menjawab pertanyaan dan memberikan rekomendasi, serta mengelola interaksi pengguna secara efektif menggunakan Go.",
+        "contribution": "Kula ngembangaken piranti CLI kanggé mbaca data CSV, ngimplementasikaken model AI kanggé njawab pitakon lan maringi rekomendasi, lan ngatur interaksi panganggo kanthi efektif ngginakaken Go.",
         "links": [
           {
             "text": "Live",
@@ -1103,25 +1138,25 @@
     ]
   },
   "contact": {
-    "title": "Hubungi Saya",
-    "description": "Silakan hubungi saya untuk menawarkan pekerjaan dan berdiskusi tentang pengembangan perangkat lunak.",
+    "title": "Hubungi Kula",
+    "description": "Mangga hubungi kula kanggé nawakake pakaryan lan ngrembag babagan pangembangan piranti lunak.",
     "form": {
       "inputs": [
         {
           "type": "text",
-          "placeholder": "Nama Anda",
+          "placeholder": "Nama Panjenengan",
           "name": "Name",
           "required": true
         },
         {
           "type": "email",
-          "placeholder": "Email Anda",
+          "placeholder": "Email Panjenengan",
           "name": "Email",
           "required": true
         },
         {
           "type": "text",
-          "placeholder": "Subjek",
+          "placeholder": "Subyek",
           "name": "Subject",
           "required": true
         }
