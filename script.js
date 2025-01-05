@@ -192,14 +192,14 @@ document.addEventListener("DOMContentLoaded", () => {
 
         profileImage.addEventListener('mouseenter', () => {
             applyTransition(profileImage, effects.fade, () => {
-                profileImage.src = "images/" + header.imageSecret;
+                profileImage.src = `images/${header.imageSecret}`;
             }, 1);
             
         });
 
         profileImage.addEventListener('mouseleave', () => {
             applyTransition(profileImage, effects.fade, () => {
-                profileImage.src = "images/" + header.image;
+                profileImage.src = `images/${header.image}`;
             }, 1);
         });
     }
