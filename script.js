@@ -200,7 +200,6 @@ document.addEventListener("DOMContentLoaded", () => {
 
         profileImage.addEventListener('mouseleave', () => {
             applyTransition(profileImage, effects.fade, () => {
-                // profileImage.src = "images/" + header.imageSecret;
                 profileImage.src = "images/" + header.image;
             }, 1);
         });
