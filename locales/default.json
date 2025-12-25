@@ -1,0 +1,415 @@
+{
+  "title": "Portfolio",
+  "navbar": {
+    "links": [
+      {
+        "text": "Home",
+        "href": "#"
+      },
+      {
+        "text": "About",
+        "href": "#About"
+      },
+      {
+        "text": "Skills",
+        "href": "#Skills"
+      },
+      {
+        "text": "Portfolio",
+        "href": "#Portfolio"
+      },
+      {
+        "text": "Contact",
+        "href": "#Contact"
+      }
+    ],
+    "languageSelector": {
+      "icon": "fa-solid fa-globe",
+      "options": [
+        {
+          "text": "Indonesian",
+          "value": "in-ID"
+        },
+        {
+          "text": "English",
+          "value": "en-EN"
+        },
+        {
+          "text": "Javanese",
+          "value": "jv-ID"
+        }
+      ]
+    },
+    "menuButton": {
+      "icon": "fa fa-bars"
+    }
+  },
+  "menuBar": {
+    "links": [
+      {
+        "icon": "fa fa-home",
+        "href": "#"
+      },
+      {
+        "icon": "fa fa-user",
+        "href": "#About"
+      },
+      {
+        "icon": "fa-solid fa-code",
+        "href": "#Skills"
+      },
+      {
+        "icon": "fa-solid fa-file-code",
+        "href": "#Portfolio"
+      },
+      {
+        "icon": "fa fa-message",
+        "href": "#Contact"
+      }
+    ]
+  },
+  "header": {
+    "greeting": "Hi. I'm Ari Zidan",
+    "description": "I am a technology professional blabla.",
+    "buttons": [
+      {
+        "text": "Curriculum Vitae",
+        "href": "BE-01-EN.pdf",
+        "class": "btn btn-white"
+      },
+      {
+        "text": "Hire Me",
+        "href": "mailto:zidanerizal17@gmail.com",
+        "class": "HireMe btn btn-white"
+      }
+    ],
+    "image": "profile.jpeg",
+    "imageSecret": "profile2.jpg",
+    "socialLinks": [
+      {
+        "icon": "fab fa-instagram",
+        "href": "https://www.instagram.com/z.id21"
+      },
+      {
+        "icon": "fab fa-whatsapp",
+        "href": "https://wa.me/6281529474830?text=Hi bruh, can we talk about..."
+      },
+      {
+        "icon": "fab fa-linkedin",
+        "href": "https://www.linkedin.com/in/arizidan"
+      },
+      {
+        "icon": "fab fa-github",
+        "href": "https://github.com/arizdn234"
+      }
+    ]
+  },
+  "about": {
+    "title": "About Me",
+    "cards": [
+      {
+        "icon": "fa-solid fa-handshake",
+        "title": "Teamwork",
+        "description": "In teamwork, I feel that working together makes any task easier and more enjoyable for me."
+      },
+      {
+        "icon": "fa-solid fa-people-arrows",
+        "title": "Communication",
+        "description": "My communication skills allow me to interact with people easily, even in casual conversations about everyday things."
+      },
+      {
+        "icon": "fa-solid fa-clock-rotate-left",
+        "title": "Time Management",
+        "description": "With good time management skills, I maintain focus and prioritize for best results."
+      }
+    ],
+    "subtitle": "Software Developer",
+    "paragraphs": [
+      "In software development, I have worked blabla."
+    ],
+    "expandButton": {
+      "expandTrue": "See More",
+      "expandFalse": "Hide"
+    },
+    "ctaButton": {
+      "text": "Hire Me",
+      "href": "#Contact",
+      "class": "btn btn-white"
+    }
+  },
+  "skills": {
+    "title": "My Skills",
+    "left": {
+      "cards": [
+        {
+          "icon": "fa-brands fa-golang",
+          "title": "Golang",
+          "description": "From Golang, I learned about efficiency in programming and the importance of concurrency for building scalable and high-performance applications."
+        },
+        {
+          "icon": "fab fa-python",
+          "title": "Python",
+          "description": "From Python, I learned about simplicity in programming and its application in web development, data analysis, and automation."
+        },
+        {
+          "icon": "fa-brands fa-js",
+          "title": "JavaScript",
+          "description": "From JavaScript, I learned how to create interactivity and dynamic content on websites, as well as the importance of asynchronous programming."
+        }
+      ]
+    },
+    "right": {
+      "subtitle": "What Can I do?",
+      "skillBtn": [
+        {
+          "icon": "fas fa-database",
+          "title": "&nbsp;PostgreSQL"
+        },
+        {
+          "icon": "fas fa-database",
+          "title": "&nbsp;MySQL"
+        },
+        {
+          "icon": "fas fa-database",
+          "title": "&nbsp;SQLite"
+        },
+        {
+          "icon": "fas fa-database",
+          "title": "&nbsp;MongoDB"
+        },
+        {
+          "icon": "fas fa-code",
+          "title": "&nbsp;Sequelize.js (Node.js)"
+        },
+        {
+          "icon": "fas fa-code",
+          "title": "&nbsp;Prisma ORM (Node.js)"
+        },
+        {
+          "icon": "fas fa-code",
+          "title": "&nbsp;GORM (Go)"
+        },
+        {
+          "icon": "fas fa-code",
+          "title": "&nbsp;Eloquent (Laravel)"
+        },
+        {
+          "icon": "fas fa-code",
+          "title": "&nbsp;SQLAlchemy (Flask/Django)"
+        },
+        {
+          "icon": "fas fa-laptop-code",
+          "title": "&nbsp;Python"
+        },
+        {
+          "icon": "fas fa-laptop-code",
+          "title": "&nbsp;JavaScript"
+        },
+        {
+          "icon": "fas fa-laptop-code",
+          "title": "&nbsp;Go (Golang)"
+        },
+        {
+          "icon": "fas fa-laptop-code",
+          "title": "&nbsp;PHP"
+        },
+        {
+          "icon": "fas fa-database",
+          "title": "&nbsp;SQL"
+        },
+        {
+          "icon": "fas fa-tools",
+          "title": "&nbsp;Docker"
+        },
+        {
+          "icon": "fas fa-database",
+          "title": "&nbsp;Navicat"
+        },
+        {
+          "icon": "fas fa-database",
+          "title": "&nbsp;DBeaver"
+        },
+        {
+          "icon": "fas fa-database",
+          "title": "&nbsp;pgAdmin"
+        },
+        {
+          "icon": "fas fa-cloud",
+          "title": "&nbsp;Mongo Atlas"
+        },
+        {
+          "icon": "fas fa-vial",
+          "title": "&nbsp;Postman"
+        },
+        {
+          "icon": "fab fa-github",
+          "title": "&nbsp;GitHub"
+        },
+        {
+          "icon": "fas fa-globe",
+          "title": "&nbsp;Django (Python)"
+        },
+        {
+          "icon": "fas fa-globe",
+          "title": "&nbsp;Laravel (PHP)"
+        },
+        {
+          "icon": "fas fa-globe",
+          "title": "&nbsp;Flask (Python)"
+        },
+        {
+          "icon": "fas fa-globe",
+          "title": "&nbsp;FastAPI (Python)"
+        },
+        {
+          "icon": "fas fa-globe",
+          "title": "&nbsp;Express.js (Node.js)"
+        },
+        {
+          "icon": "fas fa-globe",
+          "title": "&nbsp;Gin Gonic (Go)"
+        },
+        {
+          "icon": "fas fa-globe",
+          "title": "&nbsp;Gofiber (Go)"
+        },
+        {
+          "icon": "fab fa-bootstrap",
+          "title": "&nbsp;Bootstrap (CSS)"
+        },
+        {
+          "icon": "fas fa-paint-brush",
+          "title": "&nbsp;Materialize CSS (CSS)"
+        },
+        {
+          "icon": "fas fa-paint-brush",
+          "title": "&nbsp;TailwindCSS (CSS)"
+        },
+        {
+          "icon": "fas fa-code",
+          "title": "&nbsp;Alpine.js (JavaScript)"
+        },
+        {
+          "icon": "fas fa-code",
+          "title": "&nbsp;Vite.js (JavaScript)"
+        }
+      ]
+    }
+  },
+  "portfolio": {
+    "title": "Recent Projects",
+    "description": "During my experience learning in the world of academia and programming, I have managed to complete a number of relevant and significant projects.",
+    "tabs": [
+      {
+        "name": "star",
+        "text": "Star",
+        "class": "tab-active"
+      },
+      {
+        "name": "webapp",
+        "text": "Web Application"
+      },
+      {
+        "name": "webapi",
+        "text": "Web API"
+      },
+      {
+        "name": "other",
+        "text": "Other"
+      }
+    ],
+    "projects": [
+      {
+        "name": "star",
+        "title": "Integrated E-Commerce Platform",
+        "image": "uni-sell-1.svg",
+        "description": "Our e-commerce platform is a blabla.",
+        "technologies": [
+          "Laravel (PHP Framework)",
+          "Vue.js (blabla"
+        ],
+        "features": [
+          "Product Catalog: Comprehensive management of product listings and categories.",
+          "Shopping Cart and Checkout: Real-time cart updates, secure checkout, and multiple payment gateways.",
+          "blabla."
+        ],
+        "contribution": "I developed the integrated e-commerce blabla.",
+        "links": [
+          {
+            "text": "Live",
+            "href": "https://github.com/arizdn234/uni-sell",
+            "class": "btn btn-sm"
+          },
+          {
+            "text": "Github",
+            "href": "https://github.com/arizdn234/uni-sell",
+            "class": "btn btn-sm btn-white"
+          }
+        ]
+      },
+      {
+        "name": "star",
+        "title": "AI-Enhanced CSV Query Web Application",
+        "image": "aitapas.svg",
+        "description": "This web application allows users to interact blabla.",
+        "technologies": [
+          "Go (Golang)",
+          "Gin Web Framework",
+          "balbla"
+        ],
+        "features": [
+          "User Authentication and Verification: Secure login system with a verification step.",
+          "CSV Data Parsing and Display: Reads CSV files, parses them into a map format, and blabla."
+        ],
+        "contribution": "I developed the blabla.",
+        "links": [
+          {
+            "text": "Live",
+            "href": "https://github.com/arizdn234/AI-Enhanced-CSV-Query-Web-Application",
+            "class": "btn btn-sm"
+          },
+          {
+            "text": "Github",
+            "href": "https://github.com/arizdn234/AI-Enhanced-CSV-Query-Web-Application",
+            "class": "btn btn-sm btn-white"
+          }
+        ]
+      }
+    ]
+  },
+  "contact": {
+    "title": "Contact Me",
+    "description": "Please contact me to offer a job and discuss about software development.",
+    "form": {
+      "inputs": [
+        {
+          "type": "text",
+          "placeholder": "Your Name",
+          "name": "Name",
+          "required": true
+        },
+        {
+          "type": "email",
+          "placeholder": "Your Email",
+          "name": "Email",
+          "required": true
+        },
+        {
+          "type": "text",
+          "placeholder": "Subject",
+          "name": "Subject",
+          "required": true
+        }
+      ],
+      "textarea": {
+        "placeholder": "Message",
+        "name": "Message",
+        "required": true
+      },
+      "submitButton": {
+        "text": "Send",
+        "class": "btn btn-white"
+      }
+    }
+  }
+}
