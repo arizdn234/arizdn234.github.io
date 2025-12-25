@@ -189,21 +189,20 @@ document.addEventListener("DOMContentLoaded", () => {
         applyTransition(document.querySelectorAll(".header-left a")[1], effects.slideX, () => {
             document.querySelectorAll(".header-left a")[1].innerText = header.buttons[1].text;
         }, 300);
-
         const profileImage = document.getElementById('profile-image');
 
-        profileImage.addEventListener('mouseenter', () => {
-            applyTransition(profileImage, effects.fade, () => {
-                profileImage.src = `images/${header.imageSecret}`;
-            }, 1);
-            
-        });
+        // profileImage.addEventListener('mouseenter', () => {
+        //     applyTransition(profileImage, effects.fade, () => {
+        //         profileImage.setAttribute('href', `images/${header.imageSecret}`);
+        //     }, 1);
+        // });
 
-        profileImage.addEventListener('mouseleave', () => {
-            applyTransition(profileImage, effects.fade, () => {
-                profileImage.src = `images/${header.image}`;
-            }, 1);
-        });
+        // profileImage.addEventListener('mouseleave', () => {
+        //     applyTransition(profileImage, effects.fade, () => {
+        //         profileImage.setAttribute('href', `images/${header.image}`);
+        //     }, 1);
+        // });
+
     }
 
     // Update the About Section
@@ -296,19 +295,42 @@ document.addEventListener("DOMContentLoaded", () => {
         const skillsRight = document.querySelector(".skills-right .skill-btn-container");
         skillsRight.innerHTML = "";
 
-        skills.right.skillBtn.forEach((skill) => {
-            const skillElement = document.createElement("h5");
-            skillElement.className = "btn btn-white skill-btn";
-            
-            const iconElement = document.createElement("i");
-            iconElement.className = skill.icon;
-            skillElement.appendChild(iconElement);
-            
-            skillElement.innerHTML += skill.title;
-            skillsRight.appendChild(skillElement);
+        // Render grouped skills
+        skills.right.skillGroups.forEach((group, index) => {
+            const groupCard = document.createElement("div");
+            groupCard.className = "skill-group card card-primary";
+            groupCard.dataset.key = group.key;
 
-            // applyTransition(skillElement, effects.fade, () => {}, randomizer(0, 1000));
+            // Header (icon + title)
+            const header = document.createElement("div");
+            header.className = "skill-group-header";
+
+            const icon = document.createElement("i");
+            icon.className = group.icon;
+
+            const title = document.createElement("h5");
+            title.innerText = group.title;
+
+            header.appendChild(icon);
+            header.appendChild(title);
+
+            // Description
+            const desc = document.createElement("small");
+            desc.innerText = group.description;
+
+            groupCard.appendChild(header);
+            groupCard.appendChild(desc);
+
+            // Click handler (open modal / window later)
+            groupCard.addEventListener("click", () => {
+                openSkillGroup(group);
+            });
+
+            applyTransition(groupCard, effects.fade, () => {
+                skillsRight.appendChild(groupCard);
+            }, index * 100);
         });
+
     }
 
     // Update the Portfolio Section
@@ -437,94 +459,63 @@ document.addEventListener("DOMContentLoaded", () => {
                 tabsContainer.appendChild(tabElement);
             }, index * 100);
         });
-
-        // Assuming this is part of your existing code
-        // Update tabs
-// const tabsContainer = portfolioSection.querySelector(".portfolio-tabs");
-// tabsContainer.innerHTML = "";
-
-// portfolio.tabs.forEach((tab, index) => {
-//     const tabElement = document.createElement("div");
-//     tabElement.className = `tab btn btn-sm btn-white ${tab.class || ""}`;
-//     tabElement.dataset.name = tab.name;
-//     tabElement.innerText = tab.text;
-
-//     // Add event listener to each tab
-//     tabElement.addEventListener('click', (event) => {
-//         removeActive();
-//         tabElement.classList.add('tab-active');
-
-//         const projects = document.querySelectorAll(".project");
-//         let filterName = event.target.getAttribute('data-name');
-//         projects.forEach(project => {
-//             let projectName = project.getAttribute('data-name');
-//             if (projectName === filterName) {
-//                 project.style.display = 'block';
-//                 setTimeout(() => {
-//                     project.classList.remove('zoom-out');
-//                     project.classList.add('zoom-in');
-//                     project.style.display = 'flex';
-//                 }, 10); 
-//             } else {
-//                 project.classList.remove('zoom-in');
-//                 project.classList.add('zoom-out');
-//                 setTimeout(() => {
-//                     project.style.display = 'none';
-//                 }, 300);
-//             }
-//         });
-
-//     });
-
-//     applyTransition(tabElement, effects.slideY, () => {
-//         tabsContainer.appendChild(tabElement);
-//     }, index * 100);
-// });
-
-    }    
+    }   
     
-    // Update the Contact Section
-    function updateContactSection(contact) {
-        document.querySelector("#Contact h2").innerText = contact.title;
-        document.querySelector("#Contact p").innerText = contact.description;
-    
-        const form = document.querySelector("#Contact form");
-        form.innerHTML = '';
-    
-        // Create input elements
-        contact.form.inputs.forEach(inputData => {
-            const inputElement = document.createElement('input');
-            inputElement.type = inputData.type;
-            inputElement.placeholder = inputData.placeholder;
-            inputElement.name = inputData.name;
-            if (inputData.required) {
-                inputElement.required = true;
-            }
-            applyTransition(inputElement, effects.fade, () => {
-                form.appendChild(inputElement);
-            });
-        });
-    
-        // Create textarea element
-        const textareaElement = document.createElement('textarea');
-        textareaElement.placeholder = contact.form.textarea.placeholder;
-        textareaElement.name = contact.form.textarea.name;
-        if (contact.form.textarea.required) {
-            textareaElement.required = true;
-        }
-        applyTransition(textareaElement, effects.fade, () => {
-            form.appendChild(textareaElement);
-        });
-    
-        // Create submit button
-        const submitButton = document.createElement('button');
-        submitButton.type = 'submit';
-        submitButton.className = contact.form.submitButton.class;
-        submitButton.innerText = contact.form.submitButton.text;
-        applyTransition(submitButton, effects.fade, () => {
-            form.appendChild(submitButton);
-        });
-    }    
+    // Modal Elements
+    const modal = document.getElementById('general-modal');
+    const modalBody = modal.querySelector('.modal-body');
+    const modalClose = modal.querySelector('.modal-close');
+
+    // Open modal with content (HTML string)
+    function openModal(contentHTML) {
+        modalBody.innerHTML = contentHTML;
+        modal.style.display = 'block';
+    }
+
+    // Close modal
+    function closeModal() {
+        modal.style.display = 'none';
+        modalBody.innerHTML = '';
+    }
+
+    // Close modal when clicking close button
+    modalClose.addEventListener('click', closeModal);
+
+    // Close modal when clicking outside content
+    window.addEventListener('click', (e) => {
+        if (e.target === modal) closeModal();
+    });
+
+    function openSkillGroup(group) {
+        const content = `
+            <h2>${group.title}</h2>
+            <p>${group.description}</p>
+            <div class="skill-badges">
+                ${group.skills.map(skill => `<span class="badge">${skill}</span>`).join('')}
+            </div>
+        `;
+        openModal(content);
+    }
+
+    function openProject(project) {
+        const content = `
+            <h2>${project.title}</h2>
+            <img src="images/${project.image}" alt="${project.title}" style="width:100%;border-radius:8px;">
+            <p>${project.description}</p>
+            <div class="project-links">
+                ${project.links.map(link => `<a href="${link.href}" target="_blank">${link.text}</a>`).join('')}
+            </div>
+        `;
+        openModal(content);
+    }
+
+    function openCV(cvPath) {
+        const content = `
+            <h2>Curriculum Vitae</h2>
+            <iframe src="${cvPath}" width="100%" height="500px" style="border:none;"></iframe>
+        `;
+        openModal(content);
+    }
 
     // Retrieve saved language from localStorage or set default to 'en-EN'
     const savedLanguage = localStorage.getItem('preferredLanguage') || 'en-EN';

@@ -69,8 +69,8 @@
     ]
   },
   "header": {
-    "greeting": "Hi. I'm Ari Zidan",
-    "description": "I am a technology professional with a wide range of skills in software development, data analysis, and database management. With strong communication skills, high levels of responsibility, and the ability to work in a team, I am able to overcome complex challenges with a structured and analytical approach. My experience in using various programming languages ​​and modern technology tools allows me to create efficient and innovative solutions to meet business needs.",
+    "greeting": "Hi, I'm Ari Zidan",
+    "description": "I’m a back-end focused software engineer with experience building APIs, data-driven systems, and scalable backend services. I enjoy working close to the system layer—designing clean architectures, managing databases, and solving problems with a structured and analytical approach. I’m comfortable collaborating in teams and turning complex requirements into maintainable solutions.",
     "buttons": [
       {
         "text": "Curriculum Vitae",
@@ -78,22 +78,14 @@
         "class": "btn btn-white"
       },
       {
-        "text": "Hire Me",
+        "text": "Get in Touch",
         "href": "mailto:zidanerizal17@gmail.com",
-        "class": "HireMe btn btn-white"
+        "class": "btn btn-white"
       }
     ],
     "image": "profile.jpeg",
     "imageSecret": "profile2.jpg",
     "socialLinks": [
-      {
-        "icon": "fab fa-instagram",
-        "href": "https://www.instagram.com/z.id21"
-      },
-      {
-        "icon": "fab fa-whatsapp",
-        "href": "https://wa.me/6281529474830?text=Hi bruh, can we talk about..."
-      },
       {
         "icon": "fab fa-linkedin",
         "href": "https://www.linkedin.com/in/arizidan"
@@ -109,63 +101,141 @@
     "cards": [
       {
         "icon": "fa-solid fa-handshake",
-        "title": "Teamwork",
-        "description": "In teamwork, I feel that working together makes any task easier and more enjoyable for me."
+        "title": "Team Collaboration",
+        "description": "Comfortable working in cross-functional teams and contributing effectively to achieve shared technical goals."
       },
       {
         "icon": "fa-solid fa-people-arrows",
-        "title": "Communication",
-        "description": "My communication skills allow me to interact with people easily, even in casual conversations about everyday things."
+        "title": "Clear Communication",
+        "description": "Able to communicate technical ideas clearly to both technical and non-technical stakeholders."
       },
       {
         "icon": "fa-solid fa-clock-rotate-left",
         "title": "Time Management",
-        "description": "With good time management skills, I maintain focus and prioritize for best results."
+        "description": "Skilled at prioritizing tasks and managing time to deliver reliable backend solutions on schedule."
       }
     ],
-    "subtitle": "Software Developer",
+    "subtitle": "Back-end Software Engineer",
     "paragraphs": [
-      "In software development, I have worked extensively with various programming languages such as Python, JavaScript, Go, PHP, and SQL. This versatility allows me to develop, test, and maintain software applications that are both reliable and scalable. Whether it's building backend systems or developing web applications, I bring a thorough understanding of software architecture and best practices.",
-      "In the realm of data analysis, my skills include collecting, processing, and interpreting data to derive actionable insights. I am proficient in using tools like Jupyter for interactive computing and data science, enabling me to analyze data efficiently and effectively communicate findings to stakeholders.",
-      "When it comes to database management, I have hands-on experience with relational databases like PostgreSQL and MySQL, as well as NoSQL databases such as MongoDB. My knowledge of Object-Relational Mappers (ORMs) like Sequelize.js, Prisma, and SQLAlchemy allows me to bridge the gap between application code and database operations, ensuring data is stored, retrieved, and manipulated in a seamless and efficient manner.",
-      "Beyond technical skills, I pride myself on my strong communication abilities, which enable me to articulate complex technical concepts to both technical and non-technical audiences. My sense of responsibility ensures that I am committed to delivering high-quality work on time, while my collaborative nature allows me to thrive in team environments, contributing to the successful completion of projects.",
-      "Furthermore, my structured and analytical approach to problem-solving empowers me to tackle complex challenges by breaking them down into manageable tasks. I focus on understanding the underlying issues before devising innovative solutions that align with business objectives.",
-      "My experience with modern technology tools, including Docker for containerization, GitHub for version control and collaboration, and Postman for API testing, equips me with the ability to build, deploy, and maintain applications in a way that is both efficient and aligned with industry standards.",
-      "In summary, my diverse skill set and experience allow me to create effective and innovative solutions tailored to meet the specific needs of any business. I am passionate about technology and constantly seeking to improve my skills to stay ahead in this ever-evolving field."
+      "I am a back-end focused software engineer with hands-on experience in designing, developing, and maintaining reliable and scalable backend systems. I primarily work with Go, Python, JavaScript, PHP, and SQL to build clean, maintainable, and performance-oriented applications.",
+      "My work mainly revolves around backend architecture, RESTful API development, and database-driven systems. I have experience working with relational databases such as PostgreSQL and MySQL, as well as NoSQL solutions like MongoDB, ensuring efficient data modeling, querying, and optimization.",
+      "I am familiar with various Object-Relational Mapping (ORM) tools including GORM, Prisma, Sequelize, and SQLAlchemy, which allow me to write structured, maintainable code while maintaining strong control over database performance and integrity.",
+      "In addition to backend development, I have practical experience with Docker for containerization, GitHub for version control and collaboration, and Postman for API testing and validation. These tools support my workflow in building, testing, and deploying backend services efficiently.",
+      "Beyond technical skills, I value clear communication, responsibility, and collaboration. I approach problem-solving with a structured and analytical mindset, breaking down complex requirements into manageable solutions that align with business needs.",
+      "I am highly motivated to continuously improve my backend expertise and stay up to date with modern technologies, best practices, and system design principles to deliver long-term, sustainable software solutions."
     ],
     "expandButton": {
       "expandTrue": "See More",
       "expandFalse": "Hide"
     },
     "ctaButton": {
-      "text": "Hire Me",
-      "href": "#Contact",
+      "text": "Get in Touch",
+      "href": "mailto:zidanerizal17@gmail.com",
       "class": "btn btn-white"
     }
   },
   "skills": {
-    "title": "My Skills",
+    "title": "Technical Skills",
     "left": {
       "cards": [
         {
           "icon": "fa-brands fa-golang",
           "title": "Golang",
-          "description": "From Golang, I learned about efficiency in programming and the importance of concurrency for building scalable and high-performance applications."
+          "description": "Experienced in building high-performance backend services using Go, with a strong focus on concurrency, efficiency, and clean architecture."
         },
         {
           "icon": "fab fa-python",
           "title": "Python",
-          "description": "From Python, I learned about simplicity in programming and its application in web development, data analysis, and automation."
+          "description": "Used for backend development, API services, and automation, with experience in frameworks such as Django, Flask, and FastAPI."
         },
         {
           "icon": "fa-brands fa-js",
           "title": "JavaScript",
-          "description": "From JavaScript, I learned how to create interactivity and dynamic content on websites, as well as the importance of asynchronous programming."
+          "description": "Primarily used for backend development with Node.js and Express, including asynchronous programming and API integration."
         }
       ]
     },
     "right": {
-      "subtitle": "What Can I do?",
+      "subtitle": "What I Work With?",
+      "skillGroups": [
+        {
+          "key": "databases",
+          "icon": "fas fa-database",
+          "title": "Databases",
+          "description": "Databases I work with for transactional and data-driven systems.",
+          "skills": [
+            "PostgreSQL",
+            "MySQL",
+            "SQLite",
+            "MongoDB",
+            "MongoDB Atlas"
+          ]
+        },
+        {
+          "key": "languages",
+          "icon": "fas fa-laptop-code",
+          "title": "Backend Languages",
+          "description": "Primary programming languages I use for backend development.",
+          "skills": [
+            "Go (Golang)",
+            "Python",
+            "JavaScript",
+            "PHP",
+            "SQL"
+          ]
+        },
+        {
+          "key": "frameworks",
+          "icon": "fas fa-globe",
+          "title": "Backend Frameworks",
+          "description": "Frameworks used to build APIs and backend services.",
+          "skills": [
+            "Gin Gonic (Go)",
+            "Gofiber (Go)",
+            "Django (Python)",
+            "Flask (Python)",
+            "FastAPI (Python)",
+            "Express.js (Node.js)"
+          ]
+        },
+        {
+          "key": "orm",
+          "icon": "fas fa-code",
+          "title": "ORM & Data Access",
+          "description": "Tools for interacting with databases in a structured and maintainable way.",
+          "skills": [
+            "GORM (Go)",
+            "Prisma ORM",
+            "Sequelize.js",
+            "Eloquent (Laravel)",
+            "SQLAlchemy"
+          ]
+        },
+        {
+          "key": "devops",
+          "icon": "fas fa-tools",
+          "title": "DevOps & Tooling",
+          "description": "Tools used for development workflow, containerization, and collaboration.",
+          "skills": [
+            "Docker",
+            "GitHub",
+            "Postman"
+          ]
+        },
+        {
+          "key": "frontend",
+          "icon": "fas fa-paint-brush",
+          "title": "Frontend (Supporting)",
+          "description": "Frontend tools used mainly to support backend-driven applications.",
+          "skills": [
+            "TailwindCSS",
+            "Bootstrap",
+            "Materialize CSS",
+            "Alpine.js",
+            "Vite.js"
+          ]
+        }
+      ],
       "skillBtn": [
         {
           "icon": "fas fa-database",
@@ -800,7 +870,7 @@
             "class": "btn btn-sm btn-white"
           }
         ]
-      },      
+      },
       {
         "name": "webapp",
         "title": "",
@@ -931,13 +1001,19 @@
             "class": "btn btn-sm btn-white"
           }
         ]
-      },  
+      },
       {
         "name": "webapi",
         "title": "B2C E-Commerce API (Node.js)",
         "image": "web-api-default.svg",
         "description": "A back-end e-commerce API for a B2C application built using Nodejs, Prisma, Express, and PostgreSQL. This API handles product management, user authentication, shopping cart management, order processing, and payment handling.",
-        "technologies": ["Node.js", "Prisma", "Express", "PostgreSQL", "JWT Authentication"],
+        "technologies": [
+          "Node.js",
+          "Prisma",
+          "Express",
+          "PostgreSQL",
+          "JWT Authentication"
+        ],
         "features": [
           "User Registration and Login",
           "Product Management (CRUD operations)",
@@ -1023,7 +1099,7 @@
             "class": "btn btn-sm btn-white"
           }
         ]
-      },          
+      },
       {
         "name": "webapi",
         "title": "",
