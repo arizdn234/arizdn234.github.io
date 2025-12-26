@@ -126,7 +126,7 @@
     ],
     "expandButton": {
       "expandTrue": "See More",
-      "expandFalse": "Hide"
+      "expandFalse": "See Less"
     },
     "ctaButton": {
       "text": "Get in Touch",
