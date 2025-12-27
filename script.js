@@ -695,7 +695,9 @@ document.addEventListener("DOMContentLoaded", () => {
 
 const firstInfoContent = `
     <h2>Welcome 👋</h2>
-    <p>
+    <p style="
+        margin-top:1rem;
+    ">
         All <strong>cards</strong> and <strong>buttons</strong> on this page
         are <strong>clickable</strong> and will show more details.
     </p>
