@@ -175,7 +175,8 @@
             "SQLite",
             "MongoDB",
             "MongoDB Atlas"
-          ]
+          ],
+          "helper_text": "Tap for more details"
         },
         {
           "key": "languages",
@@ -188,7 +189,8 @@
             "JavaScript",
             "PHP",
             "SQL"
-          ]
+          ],
+          "helper_text": "Tap for more details"
         },
         {
           "key": "frameworks",
@@ -201,8 +203,11 @@
             "Django (Python)",
             "Flask (Python)",
             "FastAPI (Python)",
-            "Express.js (Node.js)"
-          ]
+            "Express.js (Node.js)",
+            "Laravel (PHP)",
+            "Codeigniter (PHP)"
+          ],
+          "helper_text": "Tap for more details"
         },
         {
           "key": "orm",
@@ -215,7 +220,8 @@
             "Sequelize.js",
             "Eloquent (Laravel)",
             "SQLAlchemy"
-          ]
+          ],
+          "helper_text": "Tap for more details"
         },
         {
           "key": "devops",
@@ -226,7 +232,8 @@
             "Docker",
             "GitHub",
             "Postman"
-          ]
+          ],
+          "helper_text": "Tap for more details"
         },
         {
           "key": "frontend",
@@ -239,7 +246,8 @@
             "Materialize CSS",
             "Alpine.js",
             "Vite.js"
-          ]
+          ],
+          "helper_text": "Tap for more details"
         }
       ],
       "skillBtn": [
@@ -403,7 +411,98 @@
     "projects": [
       {
         "name": "star",
+        "id": "learn-php-store",
+        "helper_text": "Tap card for more details",
+        "title": "Simple Online Store",
+        "image": "uni-sell-1.svg",
+        "description": "Our e-commerce platform is a comprehensive solution designed to facilitate both physical and digital product sales. It features a robust backend built with Laravel, a dynamic frontend developed with Vue.js, and specialized microservices handled by Express.js. The platform is containerized using Docker for consistent deployment and scalability. Key functionalities include product management, real-time inventory tracking, secure checkout, payment processing, and user reviews. This architecture ensures a scalable, maintainable, and user-friendly experience for managing and purchasing products online.",
+        "project_type": "Learning",
+        "role": "Solo Developer",
+
+        "summary": "A learning project focused on building a simple online store using native PHP to understand core backend fundamentals.",
+
+        "problem_statement": "Built to learn how backend logic, database operations, and frontend interactions work together without relying on frameworks.",
+
+        "stack": {
+          "backend": ["PHP (Native)"],
+          "frontend": ["HTML", "CSS", "Vanilla JavaScript"],
+          "database": ["MySQL"]
+        },
+
+        "architecture": {
+          "style": "Simple MVC-inspired structure",
+          "notes": [
+            "Single application",
+            "No service separation",
+            "Server-rendered pages"
+          ]
+        },
+
+        "features": [
+          "Product listing and detail pages",
+          "Basic shopping cart functionality",
+          "Order submission with database persistence",
+          "Simple admin page for product management"
+        ],
+
+        "contribution": {
+          "scope": "Fullstack",
+          "details": [
+            "Designed database schema and relationships",
+            "Implemented CRUD operations using native PHP",
+            "Handled form validation and request lifecycle",
+            "Built basic UI using HTML and CSS"
+          ]
+        },
+
+        "testing": {
+          "level": ["Manual"],
+          "notes": "Manual testing performed during development; automated tests not implemented due to learning scope."
+        },
+
+        "tradeoffs": [
+          "Kept architecture simple to focus on understanding core concepts",
+          "Deferred automated testing to prioritize feature completion"
+        ],
+
+        "impact": [
+          "Improved understanding of native PHP request handling",
+          "Gained hands-on experience with relational database design"
+        ],
+
+        "scale": {
+          "users": "Not defined",
+          "environment": "Local development"
+        },
+
+        "deployment": {
+          "status": "Not deployed",
+          "notes": "Planned to be deployed after refactoring"
+        },
+
+        "ui": {
+          "featured": false,
+          "default_tab": "overview",
+          "badges": ["Learning", "Solo Project"]
+        },
+
+        "links": [
+          {
+            "text": "Live",
+            "href": "https://github.com/arizdn234/uni-sell",
+            "class": "btn btn-sm"
+          },
+          {
+            "text": "Github",
+            "href": "https://github.com/arizdn234/uni-sell",
+            "class": "btn btn-sm btn-white"
+          }
+        ]
+      },
+      {
+        "name": "star",
         "title": "Integrated E-Commerce Platform",
+        "helper_text": "Tap card for more details",
         "image": "uni-sell-1.svg",
         "description": "Our e-commerce platform is a comprehensive solution designed to facilitate both physical and digital product sales. It features a robust backend built with Laravel, a dynamic frontend developed with Vue.js, and specialized microservices handled by Express.js. The platform is containerized using Docker for consistent deployment and scalability. Key functionalities include product management, real-time inventory tracking, secure checkout, payment processing, and user reviews. This architecture ensures a scalable, maintainable, and user-friendly experience for managing and purchasing products online.",
         "technologies": [
@@ -437,6 +536,7 @@
       {
         "name": "star",
         "title": "AI-Enhanced CSV Query Web Application",
+        "helper_text": "Tap card for more details",
         "image": "aitapas.svg",
         "description": "This web application allows users to interact with CSV data using AI models. Users can log in, view the parsed CSV data, and ask questions answered by AI models, integrating Google’s Gemini and Hugging Face’s Tapas for data-driven responses.",
         "technologies": [
@@ -470,6 +570,7 @@
       {
         "name": "star",
         "title": "Authentication System (Golang, Gin)",
+        "helper_text": "Tap card for more details",
         "image": "web-api-default.svg",
         "description": "A user authentication system built with the Gin framework in Golang, featuring JWT-based authorization and CRUD operations for user data using SQLite and GORM.",
         "technologies": [
@@ -508,6 +609,7 @@
       {
         "name": "star",
         "title": "Task Tracker Plus",
+        "helper_text": "Tap card for more details",
         "image": "ttp.png",
         "description": "Task Tracker Plus is a monolithic application built using Go (Golang) for managing study schedules. It provides REST APIs with full CRUD capabilities for managing users, tasks, and categories, and follows the MVC (Model-View-Controller) architecture.",
         "technologies": [
@@ -536,6 +638,7 @@
       {
         "name": "star",
         "title": "Bookstore REST API",
+        "helper_text": "Tap card for more details",
         "image": "web-api-default.svg",
         "description": "A robust and versatile Nodejs-based RESTful API designed to manage a bookstore, providing endpoints for user account management, and CRUD operations for books.",
         "technologies": [
@@ -571,6 +674,7 @@
       {
         "name": "star",
         "title": "",
+        "helper_text": "Tap card for more details",
         "image": "",
         "description": "",
         "technologies": [],
@@ -592,6 +696,7 @@
       {
         "name": "webapp",
         "title": "Personal Website",
+        "helper_text": "Tap card for more details",
         "image": "web-profile-112.svg",
         "description": "Developed a sophisticated personal website to showcase professional background, skills, and portfolio projects in a visually appealing and user-friendly manner.",
         "technologies": [
@@ -626,6 +731,7 @@
       {
         "name": "webapp",
         "title": "Django User Authentication Project",
+        "helper_text": "Tap card for more details",
         "image": "auth-django.svg",
         "description": "A simple application using Django for managing user authentication, including registration, login, and authentication via Google, Facebook, and Github accounts.",
         "technologies": [
@@ -660,6 +766,7 @@
       {
         "name": "webapp",
         "title": "User Authentication with Google Account (Node.js)",
+        "helper_text": "Tap card for more details",
         "image": "auth-js.svg",
         "description": "This project demonstrates user authentication using a Google account with Node.js, Express, and Passport.",
         "technologies": [
@@ -694,6 +801,7 @@
       {
         "name": "webapp",
         "title": "Kanban App - Modern Theme",
+        "helper_text": "Tap card for more details",
         "image": "kanban-app.svg",
         "description": "Kanban App is a web-based task management application with a modern theme. It allows users to create, edit, move, and delete tasks on a Kanban board with three columns: Backlog, On Progress, and Done.",
         "technologies": [
@@ -725,6 +833,7 @@
       {
         "name": "webapp",
         "title": "Music Fetch (Express, Multer)",
+        "helper_text": "Tap card for more details",
         "image": "music-fetch.svg",
         "description": "Music Fetch is a Nodejs web application for managing music data with CRUD operations using Expressjs and Multer for file handling. This application provides a simple interface for efficient music data manipulation.",
         "technologies": [
@@ -756,6 +865,7 @@
       {
         "name": "webapp",
         "title": "Modern Business Landing Page Project",
+        "helper_text": "Tap card for more details",
         "image": "business-landing-page.svg",
         "description": "This project aims to replicate and enhance the quality of a landing page designed visually in Figma. By utilizing modern web technologies such as HTML, CSS, and JavaScript, we are developing a landing page that not only reflects the set design but also adds touches of additional functionality and aesthetics. The focus is on creating visually engaging elements, smooth interactions, and a pleasant user experience. The page is also designed to be responsive and optimized for various devices, with the implementation of smooth animations and transitions that enhance the overall visual experience.",
         "technologies": [
@@ -786,6 +896,7 @@
       {
         "name": "webapp",
         "title": "Task Tracker Plus",
+        "helper_text": "Tap card for more details",
         "image": "ttp.png",
         "description": "Task Tracker Plus is a monolithic application built using Go (Golang) for managing study schedules. It provides REST APIs with full CRUD capabilities for managing users, tasks, and categories, and follows the MVC (Model-View-Controller) architecture.",
         "technologies": [
@@ -814,6 +925,7 @@
       {
         "name": "webapp",
         "title": "AI-Enhanced CSV Query Web Application",
+        "helper_text": "Tap card for more details",
         "image": "",
         "description": "This web application allows users to interact with CSV data using AI models. Users can log in, view the parsed CSV data, and ask questions answered by AI models, integrating Google’s Gemini and Hugging Face’s Tapas for data-driven responses.",
         "technologies": [
@@ -847,6 +959,7 @@
       {
         "name": "webapp",
         "title": "Integrated E-Commerce Platform",
+        "helper_text": "Tap card for more details",
         "image": "uni-sell-1.svg",
         "description": "Our e-commerce platform is a comprehensive solution designed to facilitate both physical and digital product sales. It features a robust backend built with Laravel, a dynamic frontend developed with Vue.js, and specialized microservices handled by Express.js. The platform is containerized using Docker for consistent deployment and scalability. Key functionalities include product management, real-time inventory tracking, secure checkout, payment processing, and user reviews. This architecture ensures a scalable, maintainable, and user-friendly experience for managing and purchasing products online.",
         "technologies": [
@@ -880,6 +993,7 @@
       {
         "name": "webapp",
         "title": "",
+        "helper_text": "Tap card for more details",
         "image": "",
         "description": "",
         "technologies": [],
@@ -901,6 +1015,7 @@
       {
         "name": "webapi",
         "title": "Authentication System (Golang, Gin)",
+        "helper_text": "Tap card for more details",
         "image": "web-api-default.svg",
         "description": "A user authentication system built with the Gin framework in Golang, featuring JWT-based authorization and CRUD operations for user data using SQLite and GORM.",
         "technologies": [
@@ -939,6 +1054,7 @@
       {
         "name": "webapi",
         "title": "Authentication System (Golang)",
+        "helper_text": "Tap card for more details",
         "image": "web-api-default.svg",
         "description": "A comprehensive user management system that includes login, registration, logout, and CRUD operations for user data, using JWT for secure access.",
         "technologies": [
@@ -976,6 +1092,7 @@
       {
         "name": "webapi",
         "title": "Bookstore REST API",
+        "helper_text": "Tap card for more details",
         "image": "web-api-default.svg",
         "description": "A robust and versatile Nodejs-based RESTful API designed to manage a bookstore, providing endpoints for user account management, and CRUD operations for books.",
         "technologies": [
@@ -1011,6 +1128,7 @@
       {
         "name": "webapi",
         "title": "B2C E-Commerce API (Node.js)",
+        "helper_text": "Tap card for more details",
         "image": "web-api-default.svg",
         "description": "A back-end e-commerce API for a B2C application built using Nodejs, Prisma, Express, and PostgreSQL. This API handles product management, user authentication, shopping cart management, order processing, and payment handling.",
         "technologies": [
@@ -1046,6 +1164,7 @@
       {
         "name": "webapi",
         "title": "Hotel Mawar Indah Availability API",
+        "helper_text": "Tap card for more details",
         "image": "web-api-default.svg",
         "description": "Hotel Mawar Indah Availability API is a backend service that provides information about hotel room availability. This API allows clients to check room availability, make reservations, cancel reservations, and get detailed room information.",
         "technologies": [
@@ -1077,6 +1196,7 @@
       {
         "name": "webapi",
         "title": "TransactHub",
+        "helper_text": "Tap card for more details",
         "image": "web-api-default.svg",
         "description": "TransactHub is a backend application built with Node.js and Express that handles user authentication, transactions, and item data management using MySQL and Sequelize ORM.",
         "technologies": [
@@ -1109,6 +1229,7 @@
       {
         "name": "webapi",
         "title": "",
+        "helper_text": "Tap card for more details",
         "image": "",
         "description": "",
         "technologies": [],
@@ -1130,6 +1251,7 @@
       {
         "name": "other",
         "title": "Snake Game",
+        "helper_text": "Tap card for more details",
         "image": "snake-game.svg",
         "description": "A snake game where players control a snake to eat items, avoid bombs, and achieve the highest score.",
         "technologies": [
@@ -1163,6 +1285,7 @@
       {
         "name": "other",
         "title": "Smart Home Energy Management System CLI",
+        "helper_text": "Tap card for more details",
         "image": "",
         "description": "Smart Home Energy Management System CLI is a command-line tool that allows users to interact with CSV data, ask questions, and get AI-driven recommendations using Google's TAPAS model and Mistral AI's Mixtral model via the Hugging Face API.",
         "technologies": [
@@ -1193,6 +1316,7 @@
       {
         "name": "other",
         "title": "",
+        "helper_text": "Tap card for more details",
         "image": "",
         "description": "",
         "technologies": [],

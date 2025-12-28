@@ -365,10 +365,16 @@ document.addEventListener("DOMContentLoaded", () => {
             groupCard.appendChild(header);
             groupCard.appendChild(desc);
 
-            // Click handler (open modal / window later)
+            // Click handler (open modal)
             groupCard.addEventListener("click", () => {
                 openSkillGroup(group);
             });
+
+            // helper-text
+            const helper_text = document.createElement("p");
+            helper_text.className = "skill-group-helper-text";
+            helper_text.innerText = group.helper_text;
+            groupCard.appendChild(helper_text);
 
             applyTransition(groupCard, effects.fade, () => {
                 skillsRight.appendChild(groupCard);
@@ -430,6 +436,12 @@ document.addEventListener("DOMContentLoaded", () => {
                 actionContainer.appendChild(linkElement);
             });
             projectCard.appendChild(actionContainer);
+
+            // Project helper text
+            const helper_text = document.createElement("p");
+            helper_text.className = "skill-group-helper-text";
+            helper_text.innerText = project.helper_text;
+            projectCard.appendChild(helper_text);
             
             applyTransition(projectCard, effects.fade, () => {
                 projectsContainer.appendChild(projectCard);
@@ -658,19 +670,6 @@ document.addEventListener("DOMContentLoaded", () => {
         openModal(content);
     }
 
-
-    if (!localStorage.getItem('hide-onboarding-info')) {
-        openModal(firstInfoContent);
-
-        modalBody.addEventListener('click', (e) => {
-        if (e.target.classList.contains('btn-hide-info')) {
-            localStorage.setItem('hide-onboarding-info', 'true');
-            closeModal(null);
-        }
-    });
-
-    }
-
     // Retrieve saved language from localStorage or set default to 'en-EN'
     const savedLanguage = localStorage.getItem('preferredLanguage') || 'en-EN';
     if (languageSelector) {
@@ -687,25 +686,4 @@ document.addEventListener("DOMContentLoaded", () => {
         loadContent(selectedLang);
     });
 });
-
-
-const firstInfoContent = `
-    <h2>Welcome 👋</h2>
-    <p style="
-        margin-top:1rem;
-    ">
-        All <strong>cards</strong> and <strong>buttons</strong> on this page
-        are <strong>clickable</strong> and will show more details.
-    </p>
-
-    <button class="btn-hide-info" style="
-        margin-top:1rem;
-        padding:.6rem 1.2rem;
-        border:none;
-        border-radius:6px;
-        cursor:pointer;
-    ">
-        Got it, don’t show again
-    </button>
-`;
 
