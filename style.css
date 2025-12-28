@@ -829,12 +829,13 @@ header {
     background: var(--light2);
     border-top: 2px solid var(--navBlurContrast);
     border-right: 2px solid var(--navBlurContrast);
+    cursor: pointer;
 }
 
 .project:hover {
     transition: var(--transition);
     background: var(--background);
-    border: 2px solid var(--navBlurContrast);
+    /* border: 2px solid var(--navBlurContrast); */
 }
 
 .project img {
