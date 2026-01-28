@@ -516,14 +516,15 @@ nav {
 
 .modal-close {
     position: absolute;
-    top: 1rem;
-    right: 1rem;
+    top: .7rem;
+    right: 1.2rem;
     font-size: 1.5rem;
     background: transparent;
     border: none;
     cursor: pointer;
     color: var(--light);
     transition: transform 0.2s;
+
 }
 
 .modal-close:hover {
@@ -883,22 +884,27 @@ header {
 .project-image-wrapper {
     width: 100%;
     margin-bottom: 1.25rem;
+    margin-top: 1rem;
 }
 
 .project-image {
     width: 100%;
     object-fit: cover;
     border-radius: 8px;
-    background: #f4f4f4;
+    background: var(--background);
+}
+
+.project-title {
+    margin: 1.2rem 0;
 }
 
 .project-summary {
     font-size: 1rem;
-    margin: .5rem .2rem;
+    margin: .5rem .3rem;
 }
 
 .project-stack {
-    margin: .5rem .2rem;
+    margin: .5rem .3;
 }
 
 .project-stack .section-label {
@@ -906,7 +912,7 @@ header {
     font-weight: bold;
     border-top: 1px solid #eee;
     padding-top: 1rem;
-    margin-bottom: 0.4rem;
+    margin-bottom: 1rem;
 }
 
 .project-stack .skill-badges {
@@ -917,7 +923,7 @@ header {
     margin-top: 2rem;
     border-top: 1px solid #eee;
     padding-top: 1.5rem;
-    margin: .5rem .2rem;
+    margin: .5rem .3rem;
 }
 
 .project-detail {
@@ -928,7 +934,7 @@ header {
     margin: 0;
     text-align: start;
     width: fit-content;
-    margin: 0 .2rem;
+    margin: 0 .3rem;
 
 }
 
@@ -949,6 +955,7 @@ header {
 
 .project-details ul {
     padding-left: 1.1rem;
+    margin: 0 0.3rem;
 }
 
 .project-details li {
